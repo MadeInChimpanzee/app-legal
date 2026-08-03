@@ -8,7 +8,8 @@
     - NO notifications.
     - NO network calls, NO analytics/ads/tracking, NO account.
     - All data local, under Application Support.
-    - NO photo access, NO location.
+    - Photos: read-only, via the system picker (no library permission), processed in memory, never stored.
+    - NO location.
 
   Blocks that are NOT true by default are shipped commented out below and
   marked "OPTIONAL". Uncomment ONLY what the app actually does, and DELETE the
@@ -73,8 +74,11 @@
 <p>Any notifications the App shows are local notifications generated on your device. Nothing is sent through a server, and no push token is created. You can change notification permission at any time in iOS Settings.</p>
 -->
 
-<h2>5. Photos, Location and Other Sensitive Data</h2>
-<p>The App does <strong>not</strong> access your photo library, contacts, microphone or camera, and does <strong>not</strong> request or use location data or Health data.</p>
+<h2>5. Photos</h2>
+<p>ZebraCheck examines photographs you choose, so it is worth being precise about what that means.</p>
+<p>You pick photos using the <strong>standard iOS photo picker</strong>, which runs outside the App. The App receives only the images you selected &mdash; it does <strong>not</strong> browse, scan or index your photo library, and it is never granted access to your library as a whole. For this reason the App does not need, and does not request, photo library permission.</p>
+<p>Selected images are analysed <strong>entirely on your device</strong>, in memory. They are <strong>never uploaded, never copied into the App&rsquo;s own storage and never written to disk</strong>. Results exist only while the App is open; closing it discards them. If you use the share option, the marked-up image is handed to the standard iOS share sheet only at the moment you choose to share it, and where it goes from there is your choice.</p>
+<p>The App does <strong>not</strong> access your contacts, microphone or camera, and does <strong>not</strong> request or use location data or Health data.</p>
 
 <h2>6. Payment</h2>
 <p>ZebraCheck is a <strong>paid app purchased once from the App Store</strong>. There are <strong>no in-app purchases and no subscriptions</strong>. Payment is handled entirely by Apple; the developer never receives your credit card number or any other payment details. Apple&rsquo;s handling of purchase data is described in Apple&rsquo;s own privacy policy.</p>
