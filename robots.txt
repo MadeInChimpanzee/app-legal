@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madeinchimpanzee.github.io/app-legal/sitemap.xml
