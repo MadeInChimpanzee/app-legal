@@ -254,5 +254,69 @@
     "apple_id": "6782338981",
     "accent": "#E85800",
     "built": "2026-10-11"
+  },
+  "labelforge": {
+    "slug": "labelforge",
+    "store_name": "LabelForge: Nutrition Facts",
+    "subtitle": "FDA food label maker & PDF",
+    "apple_id": "6795532938",
+    "accent": "#077862",
+    "built": "2026-10-11"
+  },
+  "cellpackdesigner": {
+    "slug": "cellpack",
+    "store_name": "Cell Pack Designer",
+    "subtitle": "18650 21700 LiFePO4 Calc",
+    "apple_id": "6795739336",
+    "accent": "#1F64B3",
+    "built": "2026-10-11"
+  },
+  "lull": {
+    "slug": "lull",
+    "store_name": "Lull: Baby Sensory Calm Play",
+    "subtitle": "Soothe fussy toddlers gently",
+    "apple_id": "6791547401",
+    "accent": "#89C5EF",
+    "built": "2026-10-11"
+  },
+  "zonepro": {
+    "slug": "zonepro",
+    "store_name": "Zone Pro: HR Power Pace",
+    "subtitle": "Triathlon Training Zones",
+    "apple_id": "6795739551",
+    "accent": "#E94C31",
+    "built": "2026-10-11"
+  },
+  "hoursledger": {
+    "slug": "hoursledger",
+    "store_name": "HoursLedger: Work Hours",
+    "subtitle": "Shift & overtime timesheet",
+    "apple_id": "6795364167",
+    "accent": "#008D79",
+    "built": "2026-10-11"
+  },
+  "tappydots": {
+    "slug": "tappydots",
+    "store_name": "Tappy Dots: Dot Marker Art",
+    "subtitle": "Tap & color for toddlers",
+    "apple_id": "6792228168",
+    "accent": "#987A32",
+    "built": "2026-10-11"
+  },
+  "calibrate": {
+    "slug": "calibrate",
+    "store_name": "Calibrate: Forecast Journal",
+    "subtitle": "Brier score and calibration",
+    "apple_id": "6794981990",
+    "accent": "#263866",
+    "built": "2026-10-11"
+  },
+  "tubebias": {
+    "slug": "tubebias",
+    "store_name": "TubeBias: Amp Bias Calc",
+    "subtitle": "Plate dissipation & OT match",
+    "apple_id": "6795169914",
+    "accent": "#A47229",
+    "built": "2026-10-11"
   }
 }
