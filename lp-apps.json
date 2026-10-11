@@ -318,5 +318,117 @@
     "apple_id": "6795169914",
     "accent": "#A47229",
     "built": "2026-10-11"
+  },
+  "ductwheel": {
+    "slug": "ductwheel",
+    "store_name": "DuctWheel - HVAC Duct Sizer",
+    "subtitle": "Round & Rectangular Sizing",
+    "apple_id": "6796186947",
+    "accent": "#F87114",
+    "built": "2026-10-11"
+  },
+  "segmentcalc": {
+    "slug": "segmentcalc",
+    "store_name": "SegmentCalc: Woodturning",
+    "subtitle": "Miter angle & segment length",
+    "apple_id": "6794844801",
+    "accent": "#7D5025",
+    "built": "2026-10-11"
+  },
+  "slopecalc": {
+    "slug": "slopecalc",
+    "store_name": "SlopeCalc: Grade & Ramp",
+    "subtitle": "Drainage, ADA & pitch",
+    "apple_id": "6794645706",
+    "accent": "#2B8658",
+    "built": "2026-10-11"
+  },
+  "wiregauge": {
+    "slug": "wiregauge",
+    "store_name": "WireGauge: DC Wire Size",
+    "subtitle": "Voltage drop & AWG",
+    "apple_id": "6794844508",
+    "accent": "#904503",
+    "built": "2026-10-11"
+  },
+  "tapecalc": {
+    "slug": "tapecalc",
+    "store_name": "TapeCalc: Feet-Inch Fraction",
+    "subtitle": "Build & framing calculator",
+    "apple_id": "6794600554",
+    "accent": "#DA5F00",
+    "built": "2026-10-11"
+  },
+  "golfwhs": {
+    "slug": "golfwhs",
+    "store_name": "GolfWHS: Handicap Index",
+    "subtitle": "Score tracker for every round",
+    "apple_id": "6794844429",
+    "accent": "#177B40",
+    "built": "2026-10-11"
+  },
+  "macrocalc": {
+    "slug": "macrocalc",
+    "store_name": "Macro Photo Calc: DOF",
+    "subtitle": "Depth of Field & Diffraction",
+    "apple_id": "6795010983",
+    "accent": "#09858F",
+    "built": "2026-10-11"
+  },
+  "holdly": {
+    "slug": "holdly",
+    "store_name": "Holdly – Isometric Timer",
+    "subtitle": "Plank & Wall Sit · auto +5s",
+    "apple_id": "6789790139",
+    "accent": "#FB4B07",
+    "built": "2026-10-11"
+  },
+  "archerygold": {
+    "slug": "gold",
+    "store_name": "Gold Archery Score & Plot",
+    "subtitle": "Track rounds, groups & classes",
+    "apple_id": "6790806161",
+    "accent": "#E84A3C",
+    "built": "2026-10-11"
+  },
+  "decimaltarget": {
+    "slug": "decimaltarget",
+    "store_name": "DecimalTarget: Shooting Score",
+    "subtitle": "Air rifle & pistol group log",
+    "apple_id": "6794514978",
+    "accent": "#D99448",
+    "built": "2026-10-11"
+  },
+  "diceodds": {
+    "slug": "diceodds",
+    "store_name": "DiceOdds: RPG Dice Calculator",
+    "subtitle": "Exact odds, advantage, damage",
+    "apple_id": "6794981776",
+    "accent": "#6B3AB8",
+    "built": "2026-10-11"
+  },
+  "babycontrast": {
+    "slug": "babycontrast",
+    "store_name": "Baby Contrast 赤ちゃん白黒あそび",
+    "subtitle": "新生児の視覚を育てる知育コントラスト",
+    "apple_id": "6790786341",
+    "accent": "#FF1C1C",
+    "built": "2026-10-11"
+  },
+  "flatbend": {
+    "slug": "flatbend",
+    "store_name": "FlatBend 板金 曲げ展開計算",
+    "subtitle": "K係数と展開全長を即計算・mm/inch対応",
+    "apple_id": "6794622503",
+    "accent": "#D5680A",
+    "built": "2026-10-11"
+  },
+  "peakflowlog": {
+    "slug": "peakflowlog",
+    "store_name": "ピークフロー記録 喘息ゾーン手帳",
+    "subtitle": "ゾーン判定・発作止め記録・受診PDF",
+    "apple_id": "6794622470",
+    "accent": "#169237",
+    "built": "2026-10-11"
   }
 }

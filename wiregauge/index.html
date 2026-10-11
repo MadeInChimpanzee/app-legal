@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WireGauge: DC Wire Size for iPhone</title>
+<meta name="description" content="Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, b">
+<link rel="canonical" href="https://madeinchimpanzee.github.io/app-legal/wiregauge/">
+<link rel="icon" href="img/icon.png">
+<link rel="apple-touch-icon" href="img/icon.png">
+<meta name="google-site-verification" content="sShjuGj1yH0nU52rMidScKj6U2jCQEzeScjimU436s0">
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "19cc6d39518c47219628c5f1152f72c9"}'></script>
+<meta property="og:type" content="website">
+<meta property="og:title" content="WireGauge: DC Wire Size for iPhone">
+<meta property="og:description" content="Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, b">
+<meta property="og:url" content="https://madeinchimpanzee.github.io/app-legal/wiregauge/">
+<meta property="og:image" content="https://madeinchimpanzee.github.io/app-legal/wiregauge/img/og.jpg">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="apple-itunes-app" content="app-id=6794844508">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "WireGauge: DC Wire Size", "operatingSystem": "iOS", "applicationCategory": "MobileApplication", "description": "Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, b", "image": "https://madeinchimpanzee.github.io/app-legal/wiregauge/img/icon.png", "url": "https://madeinchimpanzee.github.io/app-legal/wiregauge/", "installUrl": "https://apps.apple.com/us/app/id6794844508?ct=lp", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "author": {"@type": "Organization", "name": "MadeInChimpanzee"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does it cost?", "acceptedAnswer": {"@type": "Answer", "text": "Free."}}, {"@type": "Question", "name": "Where is my data stored?", "acceptedAnswer": {"@type": "Answer", "text": "Only on your iPhone. No account and no sign-in required."}}, {"@type": "Question", "name": "Which devices are supported?", "acceptedAnswer": {"@type": "Answer", "text": "iPhone, from the App Store."}}, {"@type": "Question", "name": "How do I get in touch?", "acceptedAnswer": {"@type": "Answer", "text": "Email suportapps44@gmail.com."}}]}</script>
+<style>
+:root{--accent:#904503;--accent-dark:#703502;--accent-tint:#F1E8E0;--ink:#1F2430;--muted:#5F6673;--line:#E6E8EC;--bg:#FFFFFF}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;color:var(--ink);background:var(--bg);line-height:1.8;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-dark)}
+.wrap{max-width:960px;margin:0 auto;padding:0 20px}
+header.top{position:sticky;top:0;background:rgba(255,255,255,.92);backdrop-filter:saturate(180%) blur(12px);border-bottom:1px solid var(--line);z-index:10}
+header.top .wrap{display:flex;align-items:center;gap:12px;height:60px}
+header.top img{width:36px;height:36px;border-radius:9px}
+header.top .name{font-weight:700;font-size:15px;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.btn{display:inline-flex;align-items:center;gap:8px;background:var(--accent);color:#fff;text-decoration:none;font-weight:700;padding:10px 18px;border-radius:999px;font-size:14px;box-shadow:0 8px 20px -10px var(--accent)}
+.btn:hover{background:var(--accent-dark)}
+.btn svg{width:16px;height:16px;fill:#fff}
+.hero{background:linear-gradient(180deg,var(--accent-tint),#fff 70%);padding:48px 0 32px}
+.hero .wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:36px;align-items:center}
+.hero .icon{width:96px;height:96px;border-radius:22px;box-shadow:0 12px 30px -12px rgba(0,0,0,.35);margin-bottom:18px}
+.hero h1{font-size:30px;line-height:1.35;letter-spacing:.01em;margin-bottom:8px}
+.hero .sub{color:var(--accent-dark);font-weight:700;font-size:17px;margin-bottom:16px}
+.hero .lead{color:var(--muted);font-size:15px;margin-bottom:22px}
+.hero .price{font-size:13px;color:var(--muted);margin-top:12px}
+.hero .phone{justify-self:center;width:min(300px,80vw);border-radius:36px;overflow:hidden;box-shadow:0 30px 60px -28px rgba(0,0,0,.45);border:6px solid #23242A;background:#23242A}
+.hero .phone img{display:block;width:100%}
+section{padding:40px 0}
+section h2{font-size:22px;margin-bottom:18px;padding-left:14px;border-left:5px solid var(--accent);line-height:1.4}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px 18px 16px;box-shadow:0 6px 18px -12px rgba(0,0,0,.18)}
+.card h3{font-size:16px;margin-bottom:6px;color:var(--accent-dark)}
+.card p{font-size:14px;color:var(--muted)}
+.shots{display:flex;gap:16px;overflow-x:auto;padding:8px 4px 18px;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch}
+.shot{flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:22px;overflow:hidden;box-shadow:0 14px 30px -18px rgba(0,0,0,.45);border:1px solid var(--line)}
+.shot img{display:block;width:100%;height:auto}
+.detail{background:#FAFBFC;border-radius:18px;padding:22px 22px 8px;border:1px solid var(--line)}
+.detail h2{font-size:18px;margin:22px 0 10px;border:0;padding:0;color:var(--accent-dark)}
+.detail h2:first-child{margin-top:0}
+.detail h3{font-size:15px;margin:14px 0 4px}
+.detail p,.detail li{font-size:14.5px;color:#333;margin-bottom:10px}
+.detail ul{padding-left:1.3em;margin-bottom:10px}
+.detail .note{font-size:12.5px;color:var(--muted)}
+details{border-bottom:1px solid var(--line);padding:12px 4px}
+summary{cursor:pointer;font-weight:700;font-size:15px;list-style:none;display:flex;justify-content:space-between;align-items:center}
+summary::after{content:"＋";color:var(--accent);font-weight:400}
+details[open] summary::after{content:"－"}
+details p{font-size:14px;color:var(--muted);padding:8px 0 4px}
+.cta{background:var(--accent-tint);border-radius:22px;padding:34px 22px;text-align:center}
+.cta h2{border:0;padding:0;display:block;margin-bottom:10px;font-size:22px}
+.cta p{color:var(--muted);font-size:14px;margin-bottom:18px}
+.kw{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+.kw span{font-size:11.5px;color:var(--muted);background:#F1F3F6;border-radius:999px;padding:3px 10px}
+footer{border-top:1px solid var(--line);padding:26px 0 40px;font-size:13px;color:var(--muted)}
+footer .links a{margin-right:14px}
+footer .notice{font-size:11.5px;margin-top:10px}
+@media (max-width:720px){
+  .hero{padding:30px 0 20px}
+  .hero .wrap{grid-template-columns:1fr;gap:26px}
+  .hero h1{font-size:24px}
+  .hero .phone{width:min(260px,72vw)}
+  header.top .cta-top{display:none}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <img src="img/icon.png" alt="" width="36" height="36">
+  <span class="name">WireGauge</span>
+  <a class="btn cta-top" href="https://apps.apple.com/us/app/id6794844508?ct=lp" rel="noopener">View on the App Store</a>
+</div></header>
+
+<section class="hero"><div class="wrap">
+  <div>
+    <img class="icon" src="img/icon.png" alt="WireGauge のアイコン" width="96" height="96">
+    <h1>WireGauge: DC Wire Size</h1>
+    <p class="sub">Voltage drop &amp; AWG</p>
+    <p class="lead">Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, buy once.</p>
+    <a class="btn" href="https://apps.apple.com/us/app/id6794844508?ct=lp" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.7 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.1zM14.2 5c.7-.8 1.1-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.5 2.9-1.4z"/></svg>Download on the App Store</a>
+    <p class="price">Free.</p>
+  </div>
+  <div class="phone"><img src="img/ss-02.jpg" alt="WireGauge screen" width="540"></div>
+</div></section>
+
+<section><div class="wrap">
+  <h2>What it does</h2>
+  <div class="cards">
+<div class="card"><h3>SIZE IT IN SECONDS</h3><p>Enter current (amps), one-way run length, and system voltage (12 / 24 / 48 V). Get the smallest safe AWG, the real voltage drop in volts and percent, and the wire&#x27;s ampacity. See at a glance whether voltage drop or ampacity is the limiting factor.</p></div>
+<div class="card"><h3>TWO CHECKS, ONE ANSWER</h3><p>Voltage drop uses the standard ABYC round-trip model (2 x length x resistance x current). Ampacity follows ABYC E-11 Table 6A, with insulation temperature rating (60/75/90/105C) and bundle derating. Pick 3% for critical circuits (panels, electronics, nav lights) or 10% for non-critical loads - or set your own.</p></div>
+<div class="card"><h3>WORK IT BACKWARDS</h3><p>Have a spool already? Enter the AWG and find the maximum run length, or the maximum load current it can carry.</p></div>
+<div class="card"><h3>QUICK REFERENCE</h3><p>Built-in AWG table: cross-section in mm2, ampacity by temperature rating, and resistance per 1000 ft.</p></div>
+<div class="card"><h3>MADE FOR THE JOB</h3><p>Big, high-contrast readout that works in a garage or on deck. Copy any result to share or save. Buy once. No subscription. No ads. Works completely offline, with nothing to sign in to and no data leaving your device. WireGauge is a planning aid based on ABYC E-11 and standard copper resistance. It is not a substitute for the ABYC standard, a licensed electrician, or local code, and does not size overcurrent protection (fuses/breakers). Always verify before wiring.</p></div>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <h2>Screens</h2>
+  <div class="shots">
+<figure class="shot"><img src="img/ss-01.jpg" alt="WireGauge screen 1" loading="eager" width="540"></figure>
+<figure class="shot"><img src="img/ss-02.jpg" alt="WireGauge screen 2" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-03.jpg" alt="WireGauge screen 3" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-04.jpg" alt="WireGauge screen 4" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-05.jpg" alt="WireGauge screen 5" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-06.jpg" alt="WireGauge screen 6" loading="lazy" width="540"></figure>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <h2>Details</h2>
+  <div class="detail">
+<p>WireGauge finds the right copper wire size for low-voltage DC circuits on boats, RVs, campers, vans, solar setups and vehicles - the fast, no-guesswork way.</p>
+<p>Most &quot;wire size&quot; charts only check one thing. WireGauge checks BOTH limits that actually matter and tells you which one decides your gauge:</p>
+<h3>SIZE IT IN SECONDS</h3>
+<ul>
+<li>Enter current (amps), one-way run length, and system voltage (12 / 24 / 48 V).</li>
+<li>Get the smallest safe AWG, the real voltage drop in volts and percent, and the wire&#x27;s ampacity.</li>
+<li>See at a glance whether voltage drop or ampacity is the limiting factor.</li>
+</ul>
+<h3>TWO CHECKS, ONE ANSWER</h3>
+<ul>
+<li>Voltage drop uses the standard ABYC round-trip model (2 x length x resistance x current).</li>
+<li>Ampacity follows ABYC E-11 Table 6A, with insulation temperature rating (60/75/90/105C) and bundle derating.</li>
+<li>Pick 3% for critical circuits (panels, electronics, nav lights) or 10% for non-critical loads - or set your own.</li>
+</ul>
+<h3>WORK IT BACKWARDS</h3>
+<ul>
+<li>Have a spool already? Enter the AWG and find the maximum run length, or the maximum load current it can carry.</li>
+</ul>
+<h3>QUICK REFERENCE</h3>
+<ul>
+<li>Built-in AWG table: cross-section in mm2, ampacity by temperature rating, and resistance per 1000 ft.</li>
+</ul>
+<h3>MADE FOR THE JOB</h3>
+<ul>
+<li>Big, high-contrast readout that works in a garage or on deck.</li>
+<li>Copy any result to share or save.</li>
+<li>Buy once. No subscription. No ads. Works completely offline, with nothing to sign in to and no data leaving your device.</li>
+</ul>
+<p>WireGauge is a planning aid based on ABYC E-11 and standard copper resistance. It is not a substitute for the ABYC standard, a licensed electrician, or local code, and does not size overcurrent protection (fuses/breakers). Always verify before wiring.</p>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <h2>FAQ</h2>
+<details><summary>How much does it cost?</summary><p>Free.</p></details>
+<details><summary>Where is my data stored?</summary><p>Only on your iPhone. No account and no sign-in required.</p></details>
+<details><summary>Which devices are supported?</summary><p>iPhone, from the App Store.</p></details>
+<details><summary>How do I get in touch?</summary><p>Email suportapps44@gmail.com.</p></details>
+</div></section>
+
+<section><div class="wrap">
+  <div class="cta">
+    <h2>Try WireGauge</h2>
+    <p>Free.</p>
+    <a class="btn" href="https://apps.apple.com/us/app/id6794844508?ct=lp" rel="noopener">Download on the App Store</a>
+  </div>
+  <div class="kw"><span>marine</span> <span>boat</span> <span>RV</span> <span>camper</span> <span>solar</span> <span>ampacity</span> <span>12V</span> <span>24V</span> <span>battery</span> <span>cable</span> <span>circuit</span> <span>electrical</span></div>
+</div></section>
+
+<footer><div class="wrap">
+  <p class="links"><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="support.html">Support</a><a href="../apps/">All apps</a></p>
+  <p>© 2026 MadeInChimpanzee. Apple and App Store are trademarks of Apple Inc.</p>
+  <p class="notice">This page uses Cloudflare Web Analytics to count visits (page, referrer and approximate region; nothing that identifies you).</p>
+</div></footer>
+</body>
+</html>
