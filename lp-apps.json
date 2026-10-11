@@ -26,5 +26,187 @@
     "apple_id": "6792041501",
     "accent": "#EE9606",
     "built": "2026-10-11"
+  },
+  "okeikogessha": {
+    "store_name": "おけいこ月謝帳 教室の集金管理",
+    "subtitle": "先生のための月謝の集金・未納管理",
+    "apple_id": "6787108752",
+    "accent": "#D05239",
+    "built": "2026-10-11"
+  },
+  "slomocoach": {
+    "store_name": "SloMo Coach スロー動画フォーム分析",
+    "subtitle": "コマ送り・書き込み・2画面比較でうまくなる",
+    "apple_id": "6794845442",
+    "accent": "#FF1E84",
+    "built": "2026-10-11"
+  },
+  "aketayo": {
+    "store_name": "あけたよ 化粧品コスメの開封日・使用期限",
+    "subtitle": "スキンケアも記録、使い切りをリマインド通知",
+    "apple_id": "6790045652",
+    "accent": "#8E4D26",
+    "built": "2026-10-11"
+  },
+  "moshimonote": {
+    "store_name": "もしもノート 終活エンディングノート デジタル遺品整理",
+    "subtitle": "サブスク・アカウントを家族へ残す相続メモ",
+    "apple_id": "6790240113",
+    "accent": "#C25A43",
+    "built": "2026-10-11"
+  },
+  "onetake": {
+    "store_name": "OneTake テレプロンプター カンペ台本",
+    "subtitle": "原稿を見ながらカメラ目線で撮影。広告なし買い切り",
+    "apple_id": "6792292179",
+    "accent": "#299A8B",
+    "built": "2026-10-11"
+  },
+  "spoonful": {
+    "store_name": "スプーンフル スプーン理論で気力と疲労を見える化する手帳",
+    "subtitle": "エネルギー残量を記録して燃え尽きる前に休む",
+    "apple_id": "6792185195",
+    "accent": "#CC8569",
+    "built": "2026-10-11"
+  },
+  "tinnitusnotch": {
+    "store_name": "TinnitusNotch 耳鳴りマスキング",
+    "subtitle": "ノッチ音と環境音で睡眠と集中をサポート",
+    "apple_id": "6791180509",
+    "accent": "#183B59",
+    "built": "2026-10-11"
+  },
+  "progressly": {
+    "store_name": "Progressly ボディ進捗フォト",
+    "subtitle": "毎回同じ構図で撮る変化記録",
+    "apple_id": "6789591055",
+    "accent": "#00AFA6",
+    "built": "2026-10-11"
+  },
+  "kanji3": {
+    "store_name": "かんじ3年生 小学3年の漢字ドリル",
+    "subtitle": "小学校の漢字を 読み・書き・カードで",
+    "apple_id": "6790055787",
+    "accent": "#E98949",
+    "built": "2026-10-11"
+  },
+  "sonaehi": {
+    "store_name": "そなえ費 特別費の積立｜車検・自動車税・固定資産税",
+    "subtitle": "年払いの保険・税金に備える家計簿と貯金・予算管理",
+    "apple_id": "6783801899",
+    "accent": "#AE6F1B",
+    "built": "2026-10-11"
+  },
+  "superheat": {
+    "store_name": "Superheat 冷媒チャージ計算",
+    "subtitle": "過熱度・過冷却度とPT線図を即計算",
+    "apple_id": "6794613254",
+    "accent": "#FE4000",
+    "built": "2026-10-11"
+  },
+  "cooldownshelf": {
+    "store_name": "買い物ブレーキ 衝動買い・浪費対策",
+    "subtitle": "買う前に一拍、無駄遣いと後悔を減らす",
+    "apple_id": "6782241234",
+    "accent": "#ED3D31",
+    "built": "2026-10-11"
+  },
+  "ateit": {
+    "store_name": "たべれた手帳 偏食っ子の食べもの記録",
+    "subtitle": "こどもの好き嫌いと食事メモ",
+    "apple_id": "6791841704",
+    "accent": "#ECB48A",
+    "built": "2026-10-11"
+  },
+  "reacdori": {
+    "store_name": "リアク撮り 前後カメラ同時録画",
+    "subtitle": "両面をワイプ・分割で撮影／買い切り広告なし",
+    "apple_id": "6788761561",
+    "accent": "#19AB8E",
+    "built": "2026-10-11"
+  },
+  "allergykidnote": {
+    "store_name": "アレルギーっ子ノート 食物アレルギー管理",
+    "subtitle": "除去食・エピペン期限・園提出を1冊に",
+    "apple_id": "6794524270",
+    "accent": "#BD5B42",
+    "built": "2026-10-11"
+  },
+  "sozokushiori": {
+    "store_name": "相続のしおり 手続きの期限と必要書類",
+    "subtitle": "放棄・相続税・登記の締切を通知",
+    "apple_id": "6785236085",
+    "accent": "#925010",
+    "built": "2026-10-11"
+  },
+  "tsuinnote": {
+    "store_name": "通院ノート 頭痛・発作・症状を記録する体調管理",
+    "subtitle": "前回の受診から今日までを、主治医に1枚で",
+    "apple_id": "6782272499",
+    "accent": "#E36A4E",
+    "built": "2026-10-11"
+  },
+  "heatcost": {
+    "store_name": "HeatCost 暖房費くらべ",
+    "subtitle": "薪・ペレット・灯油・ガス・電気",
+    "apple_id": "6795146108",
+    "accent": "#E74A10",
+    "built": "2026-10-11"
+  },
+  "gakkomikurabe": {
+    "store_name": "学校みくらべ 見学メモと採点比較",
+    "subtitle": "中学受験・高校・大学の志望校選びに",
+    "apple_id": "6785503121",
+    "accent": "#238F4B",
+    "built": "2026-10-11"
+  },
+  "kanji1": {
+    "store_name": "かんじ1年生 小学1年の漢字ドリル",
+    "subtitle": "小学校の漢字を 読み・書き・カードで",
+    "apple_id": "6789917332",
+    "accent": "#E88644",
+    "built": "2026-10-11"
+  },
+  "kinkyaba": {
+    "store_name": "禁キャバS キャバクラ通いをやめる節約カウンター",
+    "subtitle": "断ち日数を記録して継続、浮いたお金も見える化",
+    "apple_id": "6782355964",
+    "accent": "#702F1A",
+    "built": "2026-10-11"
+  },
+  "tsugicare": {
+    "store_name": "つぎケア 白髪染め・サロンの周期リマインダー",
+    "subtitle": "美容ルーティンの次いつを、適期に通知",
+    "apple_id": "6790053002",
+    "accent": "#E35F54",
+    "built": "2026-10-11"
+  },
+  "kanji4": {
+    "store_name": "かんじ4年生 小学4年の漢字ドリル",
+    "subtitle": "小学校の漢字を 読み・書き・カードで",
+    "apple_id": "6790086657",
+    "accent": "#E98949",
+    "built": "2026-10-11"
+  },
+  "kanji6": {
+    "store_name": "かんじ6年生 小学6年の漢字ドリル",
+    "subtitle": "小学校の漢字を 読み・書き・カードで",
+    "apple_id": "6790098252",
+    "accent": "#E98949",
+    "built": "2026-10-11"
+  },
+  "kanji2": {
+    "store_name": "かんじ2年生 小学2年の漢字ドリル",
+    "subtitle": "小学校の漢字を 読み・書き・カードで",
+    "apple_id": "6790049822",
+    "accent": "#E98949",
+    "built": "2026-10-11"
+  },
+  "kanji5": {
+    "store_name": "かんじ5年生 小学5年の漢字ドリル",
+    "subtitle": "小学校の漢字を 読み・書き・カードで",
+    "apple_id": "6790094383",
+    "accent": "#E98949",
+    "built": "2026-10-11"
   }
 }
