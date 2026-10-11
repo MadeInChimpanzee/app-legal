@@ -1,5 +1,6 @@
 {
   "memailog": {
+    "slug": "memailog",
     "store_name": "めまいログ メニエール・耳鳴りと気圧の記録ノート",
     "subtitle": "発作が来たらワンタップ・天気痛対策と通院メモに",
     "apple_id": "6784697218",
@@ -7,6 +8,7 @@
     "built": "2026-10-11"
   },
   "kansainote": {
+    "slug": "kansainote",
     "store_name": "完済ノート 奨学金・カードローン・借金返済の記録",
     "subtitle": "残高・完済予定・節目のお祝い・繰上シミュ",
     "apple_id": "6784672017",
@@ -14,6 +16,7 @@
     "built": "2026-10-11"
   },
   "ruitai": {
+    "slug": "ruitai",
     "store_name": "類対ドリル 類義語・対義語クイズ",
     "subtitle": "語彙力・言い換え力アップ 大人も漢検も",
     "apple_id": "6787418779",
@@ -21,6 +24,7 @@
     "built": "2026-10-11"
   },
   "sayable": {
+    "slug": "sayable",
     "store_name": "Sayable 話せない時の意思伝達AAC",
     "subtitle": "タップで話せる会話ボード・読み上げアプリ",
     "apple_id": "6792041501",
@@ -28,6 +32,7 @@
     "built": "2026-10-11"
   },
   "okeikogessha": {
+    "slug": "okeikogessha",
     "store_name": "おけいこ月謝帳 教室の集金管理",
     "subtitle": "先生のための月謝の集金・未納管理",
     "apple_id": "6787108752",
@@ -35,6 +40,7 @@
     "built": "2026-10-11"
   },
   "slomocoach": {
+    "slug": "slomocoach",
     "store_name": "SloMo Coach スロー動画フォーム分析",
     "subtitle": "コマ送り・書き込み・2画面比較でうまくなる",
     "apple_id": "6794845442",
@@ -42,6 +48,7 @@
     "built": "2026-10-11"
   },
   "aketayo": {
+    "slug": "aketayo",
     "store_name": "あけたよ 化粧品コスメの開封日・使用期限",
     "subtitle": "スキンケアも記録、使い切りをリマインド通知",
     "apple_id": "6790045652",
@@ -49,6 +56,7 @@
     "built": "2026-10-11"
   },
   "moshimonote": {
+    "slug": "moshimonote",
     "store_name": "もしもノート 終活エンディングノート デジタル遺品整理",
     "subtitle": "サブスク・アカウントを家族へ残す相続メモ",
     "apple_id": "6790240113",
@@ -56,6 +64,7 @@
     "built": "2026-10-11"
   },
   "onetake": {
+    "slug": "onetake",
     "store_name": "OneTake テレプロンプター カンペ台本",
     "subtitle": "原稿を見ながらカメラ目線で撮影。広告なし買い切り",
     "apple_id": "6792292179",
@@ -63,6 +72,7 @@
     "built": "2026-10-11"
   },
   "spoonful": {
+    "slug": "spoonful",
     "store_name": "スプーンフル スプーン理論で気力と疲労を見える化する手帳",
     "subtitle": "エネルギー残量を記録して燃え尽きる前に休む",
     "apple_id": "6792185195",
@@ -70,6 +80,7 @@
     "built": "2026-10-11"
   },
   "tinnitusnotch": {
+    "slug": "tinnitusnotch",
     "store_name": "TinnitusNotch 耳鳴りマスキング",
     "subtitle": "ノッチ音と環境音で睡眠と集中をサポート",
     "apple_id": "6791180509",
@@ -77,6 +88,7 @@
     "built": "2026-10-11"
   },
   "progressly": {
+    "slug": "progressly",
     "store_name": "Progressly ボディ進捗フォト",
     "subtitle": "毎回同じ構図で撮る変化記録",
     "apple_id": "6789591055",
@@ -84,6 +96,7 @@
     "built": "2026-10-11"
   },
   "kanji3": {
+    "slug": "kanji3",
     "store_name": "かんじ3年生 小学3年の漢字ドリル",
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790055787",
@@ -91,6 +104,7 @@
     "built": "2026-10-11"
   },
   "sonaehi": {
+    "slug": "sonaehi",
     "store_name": "そなえ費 特別費の積立｜車検・自動車税・固定資産税",
     "subtitle": "年払いの保険・税金に備える家計簿と貯金・予算管理",
     "apple_id": "6783801899",
@@ -98,6 +112,7 @@
     "built": "2026-10-11"
   },
   "superheat": {
+    "slug": "superheat",
     "store_name": "Superheat 冷媒チャージ計算",
     "subtitle": "過熱度・過冷却度とPT線図を即計算",
     "apple_id": "6794613254",
@@ -105,6 +120,7 @@
     "built": "2026-10-11"
   },
   "cooldownshelf": {
+    "slug": "cooldownshelf",
     "store_name": "買い物ブレーキ 衝動買い・浪費対策",
     "subtitle": "買う前に一拍、無駄遣いと後悔を減らす",
     "apple_id": "6782241234",
@@ -112,6 +128,7 @@
     "built": "2026-10-11"
   },
   "ateit": {
+    "slug": "ateit",
     "store_name": "たべれた手帳 偏食っ子の食べもの記録",
     "subtitle": "こどもの好き嫌いと食事メモ",
     "apple_id": "6791841704",
@@ -119,6 +136,7 @@
     "built": "2026-10-11"
   },
   "reacdori": {
+    "slug": "reacdori",
     "store_name": "リアク撮り 前後カメラ同時録画",
     "subtitle": "両面をワイプ・分割で撮影／買い切り広告なし",
     "apple_id": "6788761561",
@@ -126,6 +144,7 @@
     "built": "2026-10-11"
   },
   "allergykidnote": {
+    "slug": "allergykidnote",
     "store_name": "アレルギーっ子ノート 食物アレルギー管理",
     "subtitle": "除去食・エピペン期限・園提出を1冊に",
     "apple_id": "6794524270",
@@ -133,6 +152,7 @@
     "built": "2026-10-11"
   },
   "sozokushiori": {
+    "slug": "sozokushiori",
     "store_name": "相続のしおり 手続きの期限と必要書類",
     "subtitle": "放棄・相続税・登記の締切を通知",
     "apple_id": "6785236085",
@@ -140,6 +160,7 @@
     "built": "2026-10-11"
   },
   "tsuinnote": {
+    "slug": "tsuinnote",
     "store_name": "通院ノート 頭痛・発作・症状を記録する体調管理",
     "subtitle": "前回の受診から今日までを、主治医に1枚で",
     "apple_id": "6782272499",
@@ -147,6 +168,7 @@
     "built": "2026-10-11"
   },
   "heatcost": {
+    "slug": "heatcost",
     "store_name": "HeatCost 暖房費くらべ",
     "subtitle": "薪・ペレット・灯油・ガス・電気",
     "apple_id": "6795146108",
@@ -154,6 +176,7 @@
     "built": "2026-10-11"
   },
   "gakkomikurabe": {
+    "slug": "gakkomikurabe",
     "store_name": "学校みくらべ 見学メモと採点比較",
     "subtitle": "中学受験・高校・大学の志望校選びに",
     "apple_id": "6785503121",
@@ -161,6 +184,7 @@
     "built": "2026-10-11"
   },
   "kanji1": {
+    "slug": "kanji1",
     "store_name": "かんじ1年生 小学1年の漢字ドリル",
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6789917332",
@@ -168,6 +192,7 @@
     "built": "2026-10-11"
   },
   "kinkyaba": {
+    "slug": "kinkyaba",
     "store_name": "禁キャバS キャバクラ通いをやめる節約カウンター",
     "subtitle": "断ち日数を記録して継続、浮いたお金も見える化",
     "apple_id": "6782355964",
@@ -175,6 +200,7 @@
     "built": "2026-10-11"
   },
   "tsugicare": {
+    "slug": "tsugicare",
     "store_name": "つぎケア 白髪染め・サロンの周期リマインダー",
     "subtitle": "美容ルーティンの次いつを、適期に通知",
     "apple_id": "6790053002",
@@ -182,6 +208,7 @@
     "built": "2026-10-11"
   },
   "kanji4": {
+    "slug": "kanji4",
     "store_name": "かんじ4年生 小学4年の漢字ドリル",
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790086657",
@@ -189,6 +216,7 @@
     "built": "2026-10-11"
   },
   "kanji6": {
+    "slug": "kanji6",
     "store_name": "かんじ6年生 小学6年の漢字ドリル",
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790098252",
@@ -196,6 +224,7 @@
     "built": "2026-10-11"
   },
   "kanji2": {
+    "slug": "kanji2",
     "store_name": "かんじ2年生 小学2年の漢字ドリル",
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790049822",
@@ -203,10 +232,27 @@
     "built": "2026-10-11"
   },
   "kanji5": {
+    "slug": "kanji5",
     "store_name": "かんじ5年生 小学5年の漢字ドリル",
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790094383",
     "accent": "#E98949",
+    "built": "2026-10-11"
+  },
+  "kinpachis": {
+    "slug": "kinpachisensei",
+    "store_name": "禁パチS パチンコ・パチスロ断ち日数カウンター",
+    "subtitle": "ギャンブル依存から卒業 貯金・節約を記録",
+    "apple_id": "6780413825",
+    "accent": "#290020",
+    "built": "2026-10-11"
+  },
+  "taikyocheck": {
+    "slug": "taikyo",
+    "store_name": "退去費用チェッカー 敷金・原状回復・賃貸の相場診断",
+    "subtitle": "その請求、妥当？交渉と減額を後押し",
+    "apple_id": "6782338981",
+    "accent": "#E85800",
     "built": "2026-10-11"
   }
 }
