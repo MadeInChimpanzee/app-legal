@@ -61,15 +61,15 @@
     "subtitle": "サブスク・アカウントを家族へ残す相続メモ",
     "apple_id": "6790240113",
     "accent": "#C25A43",
-    "built": "2026-10-19"
+    "built": "2026-10-20"
   },
   "onetake": {
     "slug": "onetake",
-    "store_name": "OneTake テレプロンプター カンペ台本",
-    "subtitle": "原稿を見ながらカメラ目線で撮影。広告なし買い切り",
+    "store_name": "OneTake カンペカメラ・テレプロンプター",
+    "subtitle": "台本を見ながら動画撮影。カメラ目線で一発撮り",
     "apple_id": "6792292179",
     "accent": "#299A8B",
-    "built": "2026-10-11"
+    "built": "2026-10-20"
   },
   "spoonful": {
     "slug": "spoonful",
@@ -81,11 +81,11 @@
   },
   "tinnitusnotch": {
     "slug": "tinnitusnotch",
-    "store_name": "TinnitusNotch 耳鳴りマスキング",
-    "subtitle": "ノッチ音と環境音で睡眠と集中をサポート",
+    "store_name": "TinnitusNotch 耳鳴り対策・マスキング",
+    "subtitle": "ノッチ音と雨・波の環境音で、睡眠と集中をサポート",
     "apple_id": "6791180509",
     "accent": "#183B59",
-    "built": "2026-10-11"
+    "built": "2026-10-20"
   },
   "progressly": {
     "slug": "progressly",
@@ -430,5 +430,13 @@
     "apple_id": "6794622470",
     "accent": "#169237",
     "built": "2026-10-11"
+  },
+  "mysizenote": {
+    "slug": "mysizenote",
+    "store_name": "マイサイズ手帳 服の実寸で通販サイズ失敗ゼロ",
+    "subtitle": "洋服の採寸メモ 試着なしでサイズ感が分かる",
+    "apple_id": "6790414575",
+    "accent": "#3680E3",
+    "built": "2026-10-20"
   }
 }
