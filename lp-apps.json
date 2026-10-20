@@ -241,11 +241,11 @@
   },
   "kinpachis": {
     "slug": "kinpachisensei",
-    "store_name": "禁パチS パチンコ・パチスロ断ち日数カウンター",
-    "subtitle": "ギャンブル依存から卒業 貯金・節約を記録",
+    "store_name": "禁パチS 禁パチンコ・パチスロやめる日数カウンター",
+    "subtitle": "ギャンブル禁止・依存症対策 守ったお金と日数を記録",
     "apple_id": "6780413825",
     "accent": "#290020",
-    "built": "2026-10-11"
+    "built": "2026-10-20"
   },
   "taikyocheck": {
     "slug": "taikyo",
