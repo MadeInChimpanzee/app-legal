@@ -454,5 +454,13 @@
     "apple_id": "6790363404",
     "accent": "#068787",
     "built": "2026-10-22"
+  },
+  "poikigen": {
+    "slug": "poikigen",
+    "store_name": "ポイ期限 ポイント有効期限の通知と失効防止",
+    "subtitle": "楽天・PayPay・dのポイ活を逃さず使い切る",
+    "apple_id": "6790653104",
+    "accent": "#004D61",
+    "built": "2026-10-22"
   }
 }
