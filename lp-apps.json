@@ -101,7 +101,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790055787",
     "accent": "#E98949",
-    "built": "2026-10-11"
+    "built": "2026-10-22"
   },
   "sonaehi": {
     "slug": "sonaehi",
@@ -189,7 +189,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6789917332",
     "accent": "#E88644",
-    "built": "2026-10-11"
+    "built": "2026-10-22"
   },
   "kinkyaba": {
     "slug": "kinkyaba",
@@ -213,7 +213,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790086657",
     "accent": "#E98949",
-    "built": "2026-10-11"
+    "built": "2026-10-22"
   },
   "kanji6": {
     "slug": "kanji6",
@@ -221,7 +221,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790098252",
     "accent": "#E98949",
-    "built": "2026-10-11"
+    "built": "2026-10-22"
   },
   "kanji2": {
     "slug": "kanji2",
@@ -229,7 +229,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790049822",
     "accent": "#E98949",
-    "built": "2026-10-11"
+    "built": "2026-10-22"
   },
   "kanji5": {
     "slug": "kanji5",
@@ -237,7 +237,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790094383",
     "accent": "#E98949",
-    "built": "2026-10-11"
+    "built": "2026-10-22"
   },
   "kinpachis": {
     "slug": "kinpachisensei",
@@ -438,5 +438,13 @@
     "apple_id": "6790414575",
     "accent": "#3680E3",
     "built": "2026-10-20"
+  },
+  "kinens": {
+    "slug": "kinens",
+    "store_name": "すわん 禁煙・卒煙 タバコやめる日数と貯金",
+    "subtitle": "浮いたタバコ代と健康回復を記録、吸いたい時はSOS",
+    "apple_id": "6781254858",
+    "accent": "#B6520B",
+    "built": "2026-10-22"
   }
 }
