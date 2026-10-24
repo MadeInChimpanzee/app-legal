@@ -486,5 +486,13 @@
     "apple_id": "6794311678",
     "accent": "#F59E54",
     "built": "2026-10-24"
+  },
+  "shotnote": {
+    "slug": "shotnote",
+    "store_name": "ショットノート 出張撮影のカット管理",
+    "subtitle": "七五三・お宮参り カメラマンの段取り表",
+    "apple_id": "6785001910",
+    "accent": "#2AA568",
+    "built": "2026-10-25"
   }
 }
