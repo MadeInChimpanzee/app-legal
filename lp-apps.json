@@ -49,11 +49,11 @@
   },
   "aketayo": {
     "slug": "aketayo",
-    "store_name": "あけたよ 化粧品コスメの開封日・使用期限",
-    "subtitle": "スキンケアも記録、使い切りをリマインド通知",
+    "store_name": "あけたよ コスメ管理・化粧品の使用期限",
+    "subtitle": "開封日を入れるだけ。コスメ期限を自動計算＆通知",
     "apple_id": "6790045652",
     "accent": "#8E4D26",
-    "built": "2026-10-11"
+    "built": "2026-10-24"
   },
   "moshimonote": {
     "slug": "moshimonote",
