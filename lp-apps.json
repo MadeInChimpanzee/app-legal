@@ -478,5 +478,13 @@
     "apple_id": "6789614898",
     "accent": "#814E1B",
     "built": "2026-10-23"
+  },
+  "thekanji": {
+    "slug": "thekanji",
+    "store_name": "THE幹事 会費集金・受付・出欠チェック",
+    "subtitle": "飲み会・二次会・同窓会の当日精算をこれ1つで",
+    "apple_id": "6794311678",
+    "accent": "#F59E54",
+    "built": "2026-10-24"
   }
 }
