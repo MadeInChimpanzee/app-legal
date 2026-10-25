@@ -510,5 +510,13 @@
     "apple_id": "6789876115",
     "accent": "#895BF0",
     "built": "2026-10-25"
+  },
+  "taishokuhp": {
+    "slug": "taishoku",
+    "store_name": "転職まったなしゲージ",
+    "subtitle": "嫌なことで満タン、転職まったなし",
+    "apple_id": "6783833889",
+    "accent": "#C0731B",
+    "built": "2026-10-25"
   }
 }
