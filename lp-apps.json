@@ -558,5 +558,13 @@
     "apple_id": "6793944452",
     "accent": "#9C3028",
     "built": "2026-10-25"
+  },
+  "sukusukusize": {
+    "slug": "sukusuku-size",
+    "store_name": "すくすくサイズ｜子ども靴・服の成長記録",
+    "subtitle": "サイズアウト前に買い替え時期を予測通知",
+    "apple_id": "6789391493",
+    "accent": "#D05917",
+    "built": "2026-10-25"
   }
 }
