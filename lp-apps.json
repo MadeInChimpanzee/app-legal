@@ -141,7 +141,7 @@
     "subtitle": "両面をワイプ・分割で撮影／買い切り広告なし",
     "apple_id": "6788761561",
     "accent": "#19AB8E",
-    "built": "2026-10-11"
+    "built": "2026-10-25"
   },
   "allergykidnote": {
     "slug": "allergykidnote",
@@ -525,6 +525,14 @@
     "subtitle": "ABCの大文字小文字を書く入学準備",
     "apple_id": "6790117543",
     "accent": "#824E1C",
+    "built": "2026-10-25"
+  },
+  "idphotofit": {
+    "slug": "idphotofit",
+    "store_name": "証明写真ぴったり",
+    "subtitle": "規格ぴったりに自動調整、広告なし",
+    "apple_id": "6792667067",
+    "accent": "#0056CB",
     "built": "2026-10-25"
   }
 }
