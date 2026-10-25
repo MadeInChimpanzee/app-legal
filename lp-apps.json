@@ -502,5 +502,13 @@
     "apple_id": "6789029421",
     "accent": "#1B2051",
     "built": "2026-10-25"
+  },
+  "tsuzukerukun": {
+    "slug": "tsuzukerukun",
+    "store_name": "つづけるくん：習慣化と三日坊主対策アプリ",
+    "subtitle": "挫折しそうな日に、そっと背中を押す",
+    "apple_id": "6789876115",
+    "accent": "#895BF0",
+    "built": "2026-10-25"
   }
 }
