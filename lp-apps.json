@@ -550,5 +550,13 @@
     "apple_id": "6789597085",
     "accent": "#001634",
     "built": "2026-10-25"
+  },
+  "yoikuhimamori": {
+    "slug": "yoikuhimamori",
+    "store_name": "養育費まもり台帳 不払い記録・催促・時効",
+    "subtitle": "養育費と面会交流の記録を証拠に残す",
+    "apple_id": "6793944452",
+    "accent": "#9C3028",
+    "built": "2026-10-25"
   }
 }
