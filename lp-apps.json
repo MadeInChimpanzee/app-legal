@@ -253,7 +253,7 @@
     "subtitle": "その請求、妥当？交渉と減額を後押し",
     "apple_id": "6782338981",
     "accent": "#E85800",
-    "built": "2026-10-11"
+    "built": "2026-10-25"
   },
   "labelforge": {
     "slug": "labelforge",
@@ -517,6 +517,14 @@
     "subtitle": "嫌なことで満タン、転職まったなし",
     "apple_id": "6783833889",
     "accent": "#C0731B",
+    "built": "2026-10-25"
+  },
+  "alphabetzukan": {
+    "slug": "alphabetzukan",
+    "store_name": "アルファベットずかん 幼児の英語なぞり書き",
+    "subtitle": "ABCの大文字小文字を書く入学準備",
+    "apple_id": "6790117543",
+    "accent": "#824E1C",
     "built": "2026-10-25"
   }
 }
