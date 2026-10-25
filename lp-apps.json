@@ -494,5 +494,13 @@
     "apple_id": "6785001910",
     "accent": "#2AA568",
     "built": "2026-10-25"
+  },
+  "kotowaza": {
+    "slug": "kotowaza",
+    "store_name": "ことわざ学習：クイズと暗記カード",
+    "subtitle": "国語や受験対策に｜苦手を間隔反復・広告なし",
+    "apple_id": "6789029421",
+    "accent": "#1B2051",
+    "built": "2026-10-25"
   }
 }
