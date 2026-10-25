@@ -285,7 +285,7 @@
     "subtitle": "Triathlon Training Zones",
     "apple_id": "6795739551",
     "accent": "#E94C31",
-    "built": "2026-10-11"
+    "built": "2026-10-25"
   },
   "hoursledger": {
     "slug": "hoursledger",
@@ -333,7 +333,7 @@
     "subtitle": "Miter angle & segment length",
     "apple_id": "6794844801",
     "accent": "#7D5025",
-    "built": "2026-10-11"
+    "built": "2026-10-25"
   },
   "slopecalc": {
     "slug": "slopecalc",
