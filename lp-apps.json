@@ -582,5 +582,37 @@
     "apple_id": "6785727595",
     "accent": "#DB8821",
     "built": "2026-10-26"
+  },
+  "unsent": {
+    "slug": "unsent",
+    "store_name": "送らない手紙",
+    "subtitle": "送れない言葉を、そっとしまう",
+    "apple_id": "6783368437",
+    "accent": "#741404",
+    "built": "2026-10-26"
+  },
+  "tsumenobi": {
+    "slug": "tsumenobi",
+    "store_name": "つめのび",
+    "subtitle": "爪噛みをやめる｜爪の成長を写真で記録",
+    "apple_id": "6789411641",
+    "accent": "#EE5F50",
+    "built": "2026-10-26"
+  },
+  "hakkonote": {
+    "slug": "hakko",
+    "store_name": "発酵ノート ぬか床・味噌・漬物の記録",
+    "subtitle": "塩麹もキムチも 混ぜる日をお知らせ",
+    "apple_id": "6792280250",
+    "accent": "#BA643A",
+    "built": "2026-10-26"
+  },
+  "kodomogoroku": {
+    "slug": "kodomo-goroku",
+    "store_name": "こども語録｜子供の名言・言い間違いメモ",
+    "subtitle": "言い間違いも名言も、今だけの宝物",
+    "apple_id": "6782562338",
+    "accent": "#4D0001",
+    "built": "2026-10-26"
   }
 }
