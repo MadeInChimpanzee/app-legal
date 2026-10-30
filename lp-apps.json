@@ -381,7 +381,7 @@
     "subtitle": "Plank & Wall Sit · auto +5s",
     "apple_id": "6789790139",
     "accent": "#FB4B07",
-    "built": "2026-10-11"
+    "built": "2026-10-30"
   },
   "archerygold": {
     "slug": "gold",
@@ -429,7 +429,7 @@
     "subtitle": "ゾーン判定・発作止め記録・受診PDF",
     "apple_id": "6794622470",
     "accent": "#169237",
-    "built": "2026-10-11"
+    "built": "2026-10-30"
   },
   "mysizenote": {
     "slug": "mysizenote",
@@ -638,5 +638,45 @@
     "apple_id": "6810888234",
     "accent": "#E28C11",
     "built": "2026-10-29"
+  },
+  "shikikinmamori": {
+    "slug": "shikikinmamori",
+    "store_name": "敷金まもり 入居時のキズ写真で退去費用にそなえる",
+    "subtitle": "賃貸の原状回復・撮影ナビと証拠PDFで記録",
+    "apple_id": "6793978092",
+    "accent": "#F69C4F",
+    "built": "2026-10-30"
+  },
+  "naraigotokakei": {
+    "slug": "naraigotokakei",
+    "store_name": "ならいごと家計 習い事の費用と月謝の管理",
+    "subtitle": "子どもの教育費を年間で見える化",
+    "apple_id": "6792757823",
+    "accent": "#F69A4D",
+    "built": "2026-10-30"
+  },
+  "kinkennote": {
+    "slug": "kinkennote",
+    "store_name": "金券台帳 商品券ギフト券の期限管理・残額",
+    "subtitle": "株主優待・図書カードの失効を通知でお知らせ",
+    "apple_id": "6790600935",
+    "accent": "#074E2A",
+    "built": "2026-10-30"
+  },
+  "kotsutan5": {
+    "slug": "kotsutan5",
+    "store_name": "たンゴ 中1英単語 1039語を聞いて覚える反復学習",
+    "subtitle": "52レッスン・クイズ・例文つき・広告なし",
+    "apple_id": "6790432471",
+    "accent": "#FF953C",
+    "built": "2026-10-30"
+  },
+  "fadelog": {
+    "slug": "fadelog",
+    "store_name": "タトゥー除去ログ レーザー照射の経過記録",
+    "subtitle": "次回可能日と費用・写真をまとめて管理",
+    "apple_id": "6792659765",
+    "accent": "#622F09",
+    "built": "2026-10-30"
   }
 }
