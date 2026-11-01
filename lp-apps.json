@@ -45,7 +45,7 @@
     "subtitle": "コマ送り・書き込み・2画面比較でうまくなる",
     "apple_id": "6794845442",
     "accent": "#FF1E84",
-    "built": "2026-10-11"
+    "built": "2026-11-02"
   },
   "aketayo": {
     "slug": "aketayo",
@@ -93,7 +93,7 @@
     "subtitle": "毎回同じ構図で撮る変化記録",
     "apple_id": "6789591055",
     "accent": "#00AFA6",
-    "built": "2026-10-11"
+    "built": "2026-11-02"
   },
   "kanji3": {
     "slug": "kanji3",
@@ -413,7 +413,7 @@
     "subtitle": "新生児の視覚を育てる知育コントラスト",
     "apple_id": "6790786341",
     "accent": "#FF1C1C",
-    "built": "2026-10-11"
+    "built": "2026-11-02"
   },
   "flatbend": {
     "slug": "flatbend",
@@ -686,5 +686,37 @@
     "apple_id": "6784667006",
     "accent": "#CD6700",
     "built": "2026-11-01"
+  },
+  "colortouch": {
+    "slug": "colortouch",
+    "store_name": "ColorTouch - Color Splash",
+    "subtitle": "Selective Color Photo Editor",
+    "apple_id": "6790261775",
+    "accent": "#FF6A40",
+    "built": "2026-11-02"
+  },
+  "ochey": {
+    "slug": "ochey",
+    "store_name": "Ochey ダーツ チェックアウト練習",
+    "subtitle": "501の上がり練習・ダブル＆早見表",
+    "apple_id": "6790624147",
+    "accent": "#21AB5C",
+    "built": "2026-11-02"
+  },
+  "sushiatlas": {
+    "slug": "sushiatlas",
+    "store_name": "Sushi Atlas: Japan Neta Guide",
+    "subtitle": "Names, photos & pronunciation",
+    "apple_id": "6789874878",
+    "accent": "#C15242",
+    "built": "2026-11-02"
+  },
+  "solvetime": {
+    "slug": "solvetime",
+    "store_name": "SolveTime: Speedcube Timer",
+    "subtitle": "WCA scrambles, ao5, ao12",
+    "apple_id": "6794981431",
+    "accent": "#00BE4F",
+    "built": "2026-11-02"
   }
 }
