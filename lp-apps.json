@@ -197,7 +197,7 @@
     "subtitle": "断ち日数を記録して継続、浮いたお金も見える化",
     "apple_id": "6782355964",
     "accent": "#702F1A",
-    "built": "2026-10-23"
+    "built": "2026-11-01"
   },
   "tsugicare": {
     "slug": "tsugicare",
@@ -437,7 +437,7 @@
     "subtitle": "洋服の採寸メモ 試着なしでサイズ感が分かる",
     "apple_id": "6790414575",
     "accent": "#3680E3",
-    "built": "2026-10-22"
+    "built": "2026-11-01"
   },
   "kinens": {
     "slug": "kinens",
@@ -461,7 +461,7 @@
     "subtitle": "楽天・PayPay・dのポイ活を逃さず使い切る",
     "apple_id": "6790653104",
     "accent": "#004D61",
-    "built": "2026-10-22"
+    "built": "2026-11-01"
   },
   "kinhost": {
     "slug": "kinhost",
@@ -678,5 +678,13 @@
     "apple_id": "6792659765",
     "accent": "#622F09",
     "built": "2026-10-30"
+  },
+  "shinsotsutofu": {
+    "slug": "shinsotsutofu",
+    "store_name": "新卒豆腐",
+    "subtitle": "悪魔と天使が寄り添う、心の受け皿",
+    "apple_id": "6784667006",
+    "accent": "#CD6700",
+    "built": "2026-11-01"
   }
 }
