@@ -717,6 +717,54 @@
     "subtitle": "WCA scrambles, ao5, ao12",
     "apple_id": "6794981431",
     "accent": "#00BE4F",
-    "built": "2026-11-02"
+    "built": "2026-11-04"
+  },
+  "puzzleforge": {
+    "slug": "puzzleforge",
+    "store_name": "PuzzleForge: Sudoku Book Maker",
+    "subtitle": "Print-ready puzzles for KDP",
+    "apple_id": "6797230948",
+    "accent": "#E8701C",
+    "built": "2026-11-04"
+  },
+  "bleedmark": {
+    "slug": "bleedmark",
+    "store_name": "BleedMark: Bleed & Crop PDF",
+    "subtitle": "Print Ready Trim Marks",
+    "apple_id": "6795739814",
+    "accent": "#D2217E",
+    "built": "2026-11-04"
+  },
+  "derdiedrill": {
+    "slug": "derdiedrill",
+    "store_name": "ドイツ語 名詞の性 der die das",
+    "subtitle": "色で覚える独語の性 der/die/das",
+    "apple_id": "6791185523",
+    "accent": "#007EFF",
+    "built": "2026-11-04"
+  },
+  "metropulse": {
+    "slug": "metropulse",
+    "store_name": "MetroPulse: Metronome",
+    "subtitle": "Tempo, tap tempo & setlists",
+    "apple_id": "6795364881",
+    "accent": "#EE6443",
+    "built": "2026-11-04"
+  },
+  "datecam": {
+    "slug": "datecam",
+    "store_name": "DateCam - 90s Film Date Stamp",
+    "subtitle": "Vintage grain, disposable look",
+    "apple_id": "6790144937",
+    "accent": "#C0550E",
+    "built": "2026-11-04"
+  },
+  "sighty": {
+    "slug": "sighty",
+    "store_name": "Sighty 近視ケア記録",
+    "subtitle": "オルソ・点眼・屋外を毎日記録",
+    "apple_id": "6791967239",
+    "accent": "#F09B2F",
+    "built": "2026-11-04"
   }
 }
