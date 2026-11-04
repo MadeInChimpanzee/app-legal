@@ -5,7 +5,7 @@
     "subtitle": "発作が来たらワンタップ・天気痛対策と通院メモに",
     "apple_id": "6784697218",
     "accent": "#109797",
-    "built": "2026-11-02"
+    "built": "2026-11-04"
   },
   "kansainote": {
     "slug": "kansainote",
@@ -13,7 +13,7 @@
     "subtitle": "残高・完済予定・節目のお祝い・繰上シミュ",
     "apple_id": "6784672017",
     "accent": "#2F4A8F",
-    "built": "2026-10-27"
+    "built": "2026-11-04"
   },
   "ruitai": {
     "slug": "ruitai",
@@ -21,7 +21,7 @@
     "subtitle": "語彙力・言い換え力アップ 大人も漢検も",
     "apple_id": "6787418779",
     "accent": "#F69949",
-    "built": "2026-10-22"
+    "built": "2026-11-04"
   },
   "sayable": {
     "slug": "sayable",
@@ -29,7 +29,7 @@
     "subtitle": "失語症・ALSの筆談ボード 代わりに喋る読み上げ",
     "apple_id": "6792041501",
     "accent": "#EE9606",
-    "built": "2026-10-24"
+    "built": "2026-11-04"
   },
   "okeikogessha": {
     "slug": "okeikogessha",
@@ -68,8 +68,8 @@
     "store_name": "OneTake カンペカメラ・テレプロンプター",
     "subtitle": "台本を見ながら動画撮影。カメラ目線で一発撮り",
     "apple_id": "6792292179",
-    "accent": "#299A8B",
-    "built": "2026-10-20"
+    "accent": "#32A08D",
+    "built": "2026-11-04"
   },
   "spoonful": {
     "slug": "spoonful",
@@ -109,7 +109,7 @@
     "subtitle": "年払いの保険・税金に備える家計簿と貯金・予算管理",
     "apple_id": "6783801899",
     "accent": "#AE6F1B",
-    "built": "2026-10-22"
+    "built": "2026-11-04"
   },
   "superheat": {
     "slug": "superheat",
@@ -125,7 +125,7 @@
     "subtitle": "買う前に一拍、無駄遣いと後悔を減らす",
     "apple_id": "6782241234",
     "accent": "#ED3D31",
-    "built": "2026-10-23"
+    "built": "2026-11-04"
   },
   "ateit": {
     "slug": "ateit",
@@ -141,7 +141,7 @@
     "subtitle": "両面をワイプ・分割で撮影／買い切り広告なし",
     "apple_id": "6788761561",
     "accent": "#19AB8E",
-    "built": "2026-10-25"
+    "built": "2026-11-04"
   },
   "allergykidnote": {
     "slug": "allergykidnote",
@@ -165,7 +165,7 @@
     "subtitle": "前回の受診から今日までを、主治医に1枚で",
     "apple_id": "6782272499",
     "accent": "#E36A4E",
-    "built": "2026-10-23"
+    "built": "2026-11-04"
   },
   "heatcost": {
     "slug": "heatcost",
@@ -181,7 +181,7 @@
     "subtitle": "中学受験・高校・大学の志望校選びに",
     "apple_id": "6785503121",
     "accent": "#238F4B",
-    "built": "2026-10-11"
+    "built": "2026-11-04"
   },
   "kanji1": {
     "slug": "kanji1",
@@ -189,7 +189,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6789917332",
     "accent": "#E88644",
-    "built": "2026-10-25"
+    "built": "2026-11-04"
   },
   "kinkyaba": {
     "slug": "kinkyaba",
@@ -245,7 +245,7 @@
     "subtitle": "ギャンブル禁止・依存症対策 守ったお金と日数を記録",
     "apple_id": "6780413825",
     "accent": "#290020",
-    "built": "2026-10-27"
+    "built": "2026-11-04"
   },
   "taikyocheck": {
     "slug": "taikyo",
@@ -253,7 +253,7 @@
     "subtitle": "その請求、妥当？交渉と減額を後押し",
     "apple_id": "6782338981",
     "accent": "#E85800",
-    "built": "2026-10-25"
+    "built": "2026-11-04"
   },
   "labelforge": {
     "slug": "labelforge",
@@ -445,7 +445,7 @@
     "subtitle": "浮いたタバコ代と健康回復を記録、吸いたい時はSOS",
     "apple_id": "6781254858",
     "accent": "#B6520B",
-    "built": "2026-10-25"
+    "built": "2026-11-04"
   },
   "ietanote": {
     "slug": "ietanote",
@@ -517,7 +517,7 @@
     "subtitle": "嫌なことで満タン、転職まったなし",
     "apple_id": "6783833889",
     "accent": "#C0731B",
-    "built": "2026-10-25"
+    "built": "2026-11-04"
   },
   "alphabetzukan": {
     "slug": "alphabetzukan",
@@ -541,7 +541,7 @@
     "subtitle": "放置すると伸びる。整える身だしなみ習慣",
     "apple_id": "6794354892",
     "accent": "#F59A4C",
-    "built": "2026-10-25"
+    "built": "2026-11-04"
   },
   "zutsu": {
     "slug": "zutsu",
@@ -549,7 +549,7 @@
     "subtitle": "頭痛日記をワンタップ。薬の飲みすぎを日数で見張る",
     "apple_id": "6789597085",
     "accent": "#001634",
-    "built": "2026-10-25"
+    "built": "2026-11-04"
   },
   "yoikuhimamori": {
     "slug": "yoikuhimamori",
@@ -589,7 +589,7 @@
     "subtitle": "送れない言葉を、そっとしまう",
     "apple_id": "6783368437",
     "accent": "#741404",
-    "built": "2026-10-26"
+    "built": "2026-11-04"
   },
   "tsumenobi": {
     "slug": "tsumenobi",
@@ -613,7 +613,7 @@
     "subtitle": "言い間違いも名言も、今だけの宝物",
     "apple_id": "6782562338",
     "accent": "#4D0001",
-    "built": "2026-11-02"
+    "built": "2026-11-04"
   },
   "nanpun": {
     "slug": "nanpun",
@@ -685,7 +685,7 @@
     "subtitle": "悪魔と天使が寄り添う、心の受け皿",
     "apple_id": "6784667006",
     "accent": "#CD6700",
-    "built": "2026-11-01"
+    "built": "2026-11-04"
   },
   "colortouch": {
     "slug": "colortouch",
