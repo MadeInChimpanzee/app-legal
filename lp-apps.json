@@ -133,7 +133,7 @@
     "subtitle": "こどもの好き嫌いと食事メモ",
     "apple_id": "6791841704",
     "accent": "#ECB48A",
-    "built": "2026-10-23"
+    "built": "2026-11-05"
   },
   "reacdori": {
     "slug": "reacdori",
@@ -413,7 +413,7 @@
     "subtitle": "新生児の視覚を育てる知育コントラスト",
     "apple_id": "6790786341",
     "accent": "#FF1C1C",
-    "built": "2026-11-02"
+    "built": "2026-11-05"
   },
   "flatbend": {
     "slug": "flatbend",
@@ -766,5 +766,13 @@
     "apple_id": "6791967239",
     "accent": "#F09B2F",
     "built": "2026-11-04"
+  },
+  "celllog": {
+    "slug": "celllog",
+    "store_name": "CellLog リポバッテリー管理",
+    "subtitle": "サイクル・内部抵抗・退役判断の記録",
+    "apple_id": "6793566288",
+    "accent": "#63921C",
+    "built": "2026-11-05"
   }
 }
