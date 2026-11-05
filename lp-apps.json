@@ -5,7 +5,7 @@
     "subtitle": "発作が来たらワンタップ・天気痛対策と通院メモに",
     "apple_id": "6784697218",
     "accent": "#109797",
-    "built": "2026-11-04"
+    "built": "2026-11-05"
   },
   "kansainote": {
     "slug": "kansainote",
@@ -13,7 +13,7 @@
     "subtitle": "残高・完済予定・節目のお祝い・繰上シミュ",
     "apple_id": "6784672017",
     "accent": "#2F4A8F",
-    "built": "2026-11-04"
+    "built": "2026-11-05"
   },
   "ruitai": {
     "slug": "ruitai",
@@ -197,7 +197,7 @@
     "subtitle": "断ち日数を記録して継続、浮いたお金も見える化",
     "apple_id": "6782355964",
     "accent": "#702F1A",
-    "built": "2026-11-01"
+    "built": "2026-11-05"
   },
   "tsugicare": {
     "slug": "tsugicare",
@@ -245,7 +245,7 @@
     "subtitle": "ギャンブル禁止・依存症対策 守ったお金と日数を記録",
     "apple_id": "6780413825",
     "accent": "#290020",
-    "built": "2026-11-04"
+    "built": "2026-11-05"
   },
   "taikyocheck": {
     "slug": "taikyo",
@@ -293,7 +293,7 @@
     "subtitle": "Shift & overtime timesheet",
     "apple_id": "6795364167",
     "accent": "#008D79",
-    "built": "2026-10-11"
+    "built": "2026-11-05"
   },
   "tappydots": {
     "slug": "tappydots",
@@ -309,7 +309,7 @@
     "subtitle": "Brier score and calibration",
     "apple_id": "6794981990",
     "accent": "#263866",
-    "built": "2026-10-11"
+    "built": "2026-11-05"
   },
   "tubebias": {
     "slug": "tubebias",
@@ -389,7 +389,7 @@
     "subtitle": "Track rounds, groups & classes",
     "apple_id": "6790806161",
     "accent": "#E84A3C",
-    "built": "2026-10-11"
+    "built": "2026-11-05"
   },
   "decimaltarget": {
     "slug": "decimaltarget",
@@ -437,7 +437,7 @@
     "subtitle": "洋服の採寸メモ 試着なしでサイズ感が分かる",
     "apple_id": "6790414575",
     "accent": "#3680E3",
-    "built": "2026-11-04"
+    "built": "2026-11-05"
   },
   "kinens": {
     "slug": "kinens",
@@ -461,7 +461,7 @@
     "subtitle": "楽天・PayPay・dのポイ活を逃さず使い切る",
     "apple_id": "6790653104",
     "accent": "#004D61",
-    "built": "2026-11-01"
+    "built": "2026-11-05"
   },
   "kinhost": {
     "slug": "kinhost",
@@ -645,7 +645,7 @@
     "subtitle": "賃貸の原状回復・撮影ナビと証拠PDFで記録",
     "apple_id": "6793978092",
     "accent": "#F69C4F",
-    "built": "2026-11-01"
+    "built": "2026-11-05"
   },
   "naraigotokakei": {
     "slug": "naraigotokakei",
@@ -685,7 +685,7 @@
     "subtitle": "悪魔と天使が寄り添う、心の受け皿",
     "apple_id": "6784667006",
     "accent": "#CD6700",
-    "built": "2026-11-04"
+    "built": "2026-11-05"
   },
   "colortouch": {
     "slug": "colortouch",
