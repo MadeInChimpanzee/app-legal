@@ -441,11 +441,11 @@
   },
   "kinens": {
     "slug": "kinens",
-    "store_name": "すわん 禁煙・卒煙 タバコやめる日数と貯金",
-    "subtitle": "浮いたタバコ代と健康回復を記録、吸いたい時はSOS",
+    "store_name": "やめ日 禁煙日数とタバコ代の貯金・卒煙カウンター",
+    "subtitle": "健康の回復も見える。吸いたい時はSOS",
     "apple_id": "6781254858",
     "accent": "#B6520B",
-    "built": "2026-11-04"
+    "built": "2026-11-05"
   },
   "ietanote": {
     "slug": "ietanote",
