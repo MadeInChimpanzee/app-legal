@@ -289,11 +289,11 @@
   },
   "hoursledger": {
     "slug": "hoursledger",
-    "store_name": "HoursLedger: Work Hours",
-    "subtitle": "Shift & overtime timesheet",
+    "store_name": "HoursLedger: 勤務時間・給料計算",
+    "subtitle": "シフトの残業と時給を週ごとに集計",
     "apple_id": "6795364167",
     "accent": "#008D79",
-    "built": "2026-11-05"
+    "built": "2026-11-08"
   },
   "tappydots": {
     "slug": "tappydots",
@@ -345,11 +345,11 @@
   },
   "wiregauge": {
     "slug": "wiregauge",
-    "store_name": "WireGauge: DC Wire Size",
-    "subtitle": "Voltage drop & AWG",
+    "store_name": "電線サイズと電圧降下 WireGauge",
+    "subtitle": "AWGと許容電流 12V/24VのDC配線",
     "apple_id": "6794844508",
     "accent": "#904503",
-    "built": "2026-10-11"
+    "built": "2026-11-08"
   },
   "tapecalc": {
     "slug": "tapecalc",
@@ -393,11 +393,11 @@
   },
   "decimaltarget": {
     "slug": "decimaltarget",
-    "store_name": "DecimalTarget: Shooting Score",
-    "subtitle": "Air rifle & pistol group log",
+    "store_name": "DecimalTarget 射撃スコア記録",
+    "subtitle": "エアライフル・エアピストルの練習記録",
     "apple_id": "6794514978",
     "accent": "#D99448",
-    "built": "2026-10-11"
+    "built": "2026-11-08"
   },
   "diceodds": {
     "slug": "diceodds",
@@ -774,5 +774,13 @@
     "apple_id": "6793566288",
     "accent": "#63921C",
     "built": "2026-11-05"
+  },
+  "ganacheratio": {
+    "slug": "ganacheratio",
+    "store_name": "Ganache Ratio ガナッシュ比率・分量計算",
+    "subtitle": "チョコと生クリームの配合をケーキから逆算",
+    "apple_id": "6795010671",
+    "accent": "#552D1B",
+    "built": "2026-11-08"
   }
 }

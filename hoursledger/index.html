@@ -1,25 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>HoursLedger: Work Hours for iPhone</title>
-<meta name="description" content="Log shifts and see regular vs overtime pay by week — offline, no subscription.">
+<title>HoursLedger: 勤務時間・給料計算｜iPhoneアプリ</title>
+<meta name="description" content="シフトを記録するだけで、通常時間と残業時間、給料（総支給額）を週ごとに自動で集計。残業のルールは勤務先ごとに自分で設定できます。広告なし・サブスクなし・ログイン不要で、データは端末の中だけに保存します。">
 <link rel="canonical" href="https://madeinchimpanzee.github.io/app-legal/hoursledger/">
 <link rel="icon" href="img/icon.png">
 <link rel="apple-touch-icon" href="img/icon.png">
 <meta name="google-site-verification" content="sShjuGj1yH0nU52rMidScKj6U2jCQEzeScjimU436s0">
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "19cc6d39518c47219628c5f1152f72c9"}'></script>
 <meta property="og:type" content="website">
-<meta property="og:title" content="HoursLedger: Work Hours for iPhone">
-<meta property="og:description" content="Log shifts and see regular vs overtime pay by week — offline, no subscription.">
+<meta property="og:title" content="HoursLedger: 勤務時間・給料計算｜iPhoneアプリ">
+<meta property="og:description" content="シフトを記録するだけで、通常時間と残業時間、給料（総支給額）を週ごとに自動で集計。残業のルールは勤務先ごとに自分で設定できます。広告なし・サブスクなし・ログイン不要で、データは端末の中だけに保存します。">
 <meta property="og:url" content="https://madeinchimpanzee.github.io/app-legal/hoursledger/">
 <meta property="og:image" content="https://madeinchimpanzee.github.io/app-legal/hoursledger/img/og.jpg">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="apple-itunes-app" content="app-id=6795364167">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "HoursLedger: Work Hours", "operatingSystem": "iOS", "applicationCategory": "MobileApplication", "description": "Log shifts and see regular vs overtime pay by week — offline, no subscription.", "image": "https://madeinchimpanzee.github.io/app-legal/hoursledger/img/icon.png", "url": "https://madeinchimpanzee.github.io/app-legal/hoursledger/", "installUrl": "https://apps.apple.com/us/app/id6795364167?ct=lp", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "author": {"@type": "Organization", "name": "MadeInChimpanzee"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does it cost?", "acceptedAnswer": {"@type": "Answer", "text": "A one-time purchase. No subscription."}}, {"@type": "Question", "name": "Where is my data stored?", "acceptedAnswer": {"@type": "Answer", "text": "Only on your iPhone. No account and no sign-in required."}}, {"@type": "Question", "name": "Which devices are supported?", "acceptedAnswer": {"@type": "Answer", "text": "iPhone, from the App Store."}}, {"@type": "Question", "name": "How do I get in touch?", "acceptedAnswer": {"@type": "Answer", "text": "Email suportapps44@gmail.com."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "HoursLedger: 勤務時間・給料計算", "operatingSystem": "iOS", "applicationCategory": "MobileApplication", "description": "シフトを記録するだけで、通常時間と残業時間、給料（総支給額）を週ごとに自動で集計。残業のルールは勤務先ごとに自分で設定できます。広告なし・サブスクなし・ログイン不要で、データは端末の中だけに保存します。", "image": "https://madeinchimpanzee.github.io/app-legal/hoursledger/img/icon.png", "url": "https://madeinchimpanzee.github.io/app-legal/hoursledger/", "installUrl": "https://apps.apple.com/jp/app/id6795364167?ct=lp", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "author": {"@type": "Organization", "name": "MadeInChimpanzee"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "料金はかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "買い切り ¥600（サブスクではありません）。"}}, {"@type": "Question", "name": "入力したデータはどこに保存されますか？", "acceptedAnswer": {"@type": "Answer", "text": "お使いの iPhone の中にのみ保存されます。アカウント登録もログインも不要です。"}}, {"@type": "Question", "name": "対応機種は？", "acceptedAnswer": {"@type": "Answer", "text": "iPhone（App Store から入手）。"}}, {"@type": "Question", "name": "問い合わせ先は？", "acceptedAnswer": {"@type": "Answer", "text": "メール suportapps44@gmail.com までご連絡ください。"}}]}</script>
 <style>
 :root{--accent:#008D79;--accent-dark:#006D5E;--accent-tint:#E0F1EE;--ink:#1F2430;--muted:#5F6673;--line:#E6E8EC;--bg:#FFFFFF}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -86,80 +86,82 @@ footer .notice{font-size:11.5px;margin-top:10px}
 <header class="top"><div class="wrap">
   <img src="img/icon.png" alt="" width="36" height="36">
   <span class="name">HoursLedger</span>
-  <a class="btn cta-top" href="https://apps.apple.com/us/app/id6795364167?ct=lp" rel="noopener">View on the App Store</a>
+  <a class="btn cta-top" href="https://apps.apple.com/jp/app/id6795364167?ct=lp" rel="noopener">App Store で見る</a>
 </div></header>
 
 <section class="hero"><div class="wrap">
   <div>
     <img class="icon" src="img/icon.png" alt="HoursLedger のアイコン" width="96" height="96">
-    <h1>HoursLedger: Work Hours</h1>
-    <p class="sub">Shift &amp; overtime timesheet</p>
-    <p class="lead">Log shifts and see regular vs overtime pay by week — offline, no subscription.</p>
-    <a class="btn" href="https://apps.apple.com/us/app/id6795364167?ct=lp" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.7 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.1zM14.2 5c.7-.8 1.1-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.5 2.9-1.4z"/></svg>Download on the App Store</a>
-    <p class="price">A one-time purchase. No subscription.</p>
+    <h1>HoursLedger: 勤務時間・給料計算</h1>
+    <p class="sub">シフトの残業と時給を週ごとに集計</p>
+    <p class="lead">シフトを記録するだけで、通常時間と残業時間、給料（総支給額）を週ごとに自動で集計。残業のルールは勤務先ごとに自分で設定できます。広告なし・サブスクなし・ログイン不要で、データは端末の中だけに保存します。</p>
+    <a class="btn" href="https://apps.apple.com/jp/app/id6795364167?ct=lp" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.7 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.1zM14.2 5c.7-.8 1.1-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.5 2.9-1.4z"/></svg>App Store からダウンロード</a>
+    <p class="price">買い切り ¥600（サブスクではありません）。</p>
   </div>
-  <div class="phone"><img src="img/ss-01.jpg" alt="HoursLedger screen" width="540"></div>
+  <div class="phone"><img src="img/ss-01.jpg" alt="HoursLedger の画面" width="540"></div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>What it does</h2>
+  <h2>できること</h2>
   <div class="cards">
 
   </div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>Screens</h2>
+  <h2>画面</h2>
   <div class="shots">
-<figure class="shot"><img src="img/ss-01.jpg" alt="HoursLedger screen 1" loading="eager" width="540"></figure>
-<figure class="shot"><img src="img/ss-02.jpg" alt="HoursLedger screen 2" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-03.jpg" alt="HoursLedger screen 3" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-04.jpg" alt="HoursLedger screen 4" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-05.jpg" alt="HoursLedger screen 5" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-06.jpg" alt="HoursLedger screen 6" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-07.jpg" alt="HoursLedger screen 7" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-01.jpg" alt="HoursLedger の画面 1" loading="eager" width="540"></figure>
+<figure class="shot"><img src="img/ss-02.jpg" alt="HoursLedger の画面 2" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-03.jpg" alt="HoursLedger の画面 3" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-04.jpg" alt="HoursLedger の画面 4" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-05.jpg" alt="HoursLedger の画面 5" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-06.jpg" alt="HoursLedger の画面 6" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-07.jpg" alt="HoursLedger の画面 7" loading="lazy" width="540"></figure>
   </div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>Details</h2>
+  <h2>詳しく</h2>
   <div class="detail">
-<p>HoursLedger turns your shifts into hours and pay — no ads, no subscription, and completely offline.</p>
-<p>Log a shift with start, end and unpaid break, and HoursLedger calculates the rest:</p>
+<p>HoursLedger は、働いたシフトから勤務時間と給料を計算する勤怠記録アプリです。広告なし・サブスクなし、すべてオフラインで動きます。</p>
+<p>シフトの開始・終了と休憩（無給）を入れるだけで、あとは自動で計算します。</p>
 <ul>
-<li>Regular vs overtime — set your own rules per job: a daily hours threshold and multiplier, plus an optional weekly threshold. No fixed labor-law assumptions, so it fits how you actually get paid.</li>
-<li>Accurate hours — overnight shifts that cross midnight are handled correctly, and durations are computed from real dates (daylight-saving safe).</li>
-<li>Weekly totals — shifts group by week with regular hours, overtime hours and gross pay.</li>
-<li>Multiple jobs — each with its own rate and rules.</li>
-<li>CSV export — share your timesheet for invoicing or payroll.</li>
+<li>通常時間と残業時間を分けて集計 ― 残業のルールは勤務先ごとに自分で設定。「1日◯時間を超えたら割増率◯倍」に加えて、「週◯時間を超えたら」も設定できます。法律の決まりを前提にしないので、自分の働き方や契約に合わせられます。</li>
+<li>正確な時間計算 ― 日付をまたぐ夜勤のシフトも正しく扱い、実際の日付から時間を計算します（夏時間の切り替えにも対応）。</li>
+<li>週ごとの集計 ― シフトは週ごとにまとまり、通常時間・残業時間・総支給額（税金・控除を引く前）が一目でわかります。今週・今月・先月・全期間でも集計できます。</li>
+<li>掛け持ちにも対応 ― 勤務先ごとに時給と残業ルールを設定できます。</li>
+<li>時給の変更も安心 ― シフトは記録したときの時給を保ちます。時給を変えたとき、過去のシフトを元の時給のままにするか、新しい時給に揃えるかを選べます。</li>
+<li>通貨を選べる ― 端末の地域の通貨が既定で、設定で変更できます。</li>
+<li>CSV書き出し ― 勤務記録をCSVで共有でき、請求書づくりや給与の確認に使えます。Excel・Numbers・Googleスプレッドシートで開けます。</li>
 </ul>
-<p>Great for hourly and shift workers, part-timers, freelancers and small teams who want a simple, private timesheet.</p>
-<p>One-time purchase — every feature unlocked, no in-app purchases, no ads, no login. Your pay data stays on your device.</p>
+<p>時給で働くアルバイト・パートの方、シフト勤務の方、フリーランスの方、小さなチームなど、シンプルでプライベートな勤怠記録がほしい方に。</p>
+<p>買い切りで、すべての機能が使えます。アプリ内課金・広告・ログインはありません。給料のデータは端末の中にだけ保存されます。</p>
   </div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>FAQ</h2>
-<details><summary>How much does it cost?</summary><p>A one-time purchase. No subscription.</p></details>
-<details><summary>Where is my data stored?</summary><p>Only on your iPhone. No account and no sign-in required.</p></details>
-<details><summary>Which devices are supported?</summary><p>iPhone, from the App Store.</p></details>
-<details><summary>How do I get in touch?</summary><p>Email suportapps44@gmail.com.</p></details>
+  <h2>よくある質問</h2>
+<details><summary>料金はかかりますか？</summary><p>買い切り ¥600（サブスクではありません）。</p></details>
+<details><summary>入力したデータはどこに保存されますか？</summary><p>お使いの iPhone の中にのみ保存されます。アカウント登録もログインも不要です。</p></details>
+<details><summary>対応機種は？</summary><p>iPhone（App Store から入手）。</p></details>
+<details><summary>問い合わせ先は？</summary><p>メール suportapps44@gmail.com までご連絡ください。</p></details>
 </div></section>
 
 <section><div class="wrap">
   <div class="cta">
-    <h2>Try HoursLedger</h2>
-    <p>A one-time purchase. No subscription.</p>
-    <a class="btn" href="https://apps.apple.com/us/app/id6795364167?ct=lp" rel="noopener">Download on the App Store</a>
+    <h2>HoursLedger を使ってみる</h2>
+    <p>買い切り ¥600（サブスクではありません）。</p>
+    <a class="btn" href="https://apps.apple.com/jp/app/id6795364167?ct=lp" rel="noopener">App Store からダウンロード</a>
     
   </div>
-  <div class="kw"><span>timesheet</span> <span>work hours</span> <span>overtime</span> <span>shift</span> <span>time card</span> <span>hours tracker</span> <span>pay</span> <span>wage</span> <span>timecard</span> <span>job</span></div>
+  <div class="kw"><span>バイト</span> <span>勤怠</span> <span>タイムカード</span> <span>労働時間</span> <span>給与</span> <span>夜勤</span> <span>休憩</span> <span>パート</span> <span>アルバイト</span> <span>フリーランス</span> <span>タイムシート</span> <span>勤怠管理</span></div>
 </div></section>
 
 <footer><div class="wrap">
-  <p class="links"><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="support.html">Support</a><a href="../apps/">All apps</a></p>
-  <p>© 2026 MadeInChimpanzee. Apple and App Store are trademarks of Apple Inc.</p>
-  <p class="notice">This page uses Cloudflare Web Analytics to count visits (page, referrer and approximate region; nothing that identifies you).</p>
+  <p class="links"><a href="privacy.html">プライバシーポリシー</a><a href="terms.html">利用規約</a><a href="support.html">サポート</a><a href="../apps/">アプリ一覧</a></p>
+  <p>© 2026 MadeInChimpanzee. Apple、App Store は Apple Inc. の商標です。</p>
+  <p class="notice">このページはアクセス数の把握のため Cloudflare Web Analytics を利用しています（閲覧ページ・参照元・おおよその地域などが送信されます。個人を特定する情報は含みません）。</p>
 </div></footer>
 </body>
 </html>

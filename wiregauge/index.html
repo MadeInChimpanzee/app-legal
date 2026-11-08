@@ -1,25 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WireGauge: DC Wire Size for iPhone</title>
-<meta name="description" content="Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, b">
+<title>電線サイズと電圧降下 WireGauge｜iPhoneアプリ</title>
+<meta name="description" content="電流・片道の長さ・電圧を入れるだけで、安全に使える最小の AWG が出ます。電圧降下と ABYC 許容電流を同時に判定し、どちらで太さが決まったのかも表示。逆算と早見表つき。完全オフラインの買い切りです。">
 <link rel="canonical" href="https://madeinchimpanzee.github.io/app-legal/wiregauge/">
 <link rel="icon" href="img/icon.png">
 <link rel="apple-touch-icon" href="img/icon.png">
 <meta name="google-site-verification" content="sShjuGj1yH0nU52rMidScKj6U2jCQEzeScjimU436s0">
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "19cc6d39518c47219628c5f1152f72c9"}'></script>
 <meta property="og:type" content="website">
-<meta property="og:title" content="WireGauge: DC Wire Size for iPhone">
-<meta property="og:description" content="Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, b">
+<meta property="og:title" content="電線サイズと電圧降下 WireGauge｜iPhoneアプリ">
+<meta property="og:description" content="電流・片道の長さ・電圧を入れるだけで、安全に使える最小の AWG が出ます。電圧降下と ABYC 許容電流を同時に判定し、どちらで太さが決まったのかも表示。逆算と早見表つき。完全オフラインの買い切りです。">
 <meta property="og:url" content="https://madeinchimpanzee.github.io/app-legal/wiregauge/">
 <meta property="og:image" content="https://madeinchimpanzee.github.io/app-legal/wiregauge/img/og.jpg">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="apple-itunes-app" content="app-id=6794844508">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "WireGauge: DC Wire Size", "operatingSystem": "iOS", "applicationCategory": "MobileApplication", "description": "Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, b", "image": "https://madeinchimpanzee.github.io/app-legal/wiregauge/img/icon.png", "url": "https://madeinchimpanzee.github.io/app-legal/wiregauge/", "installUrl": "https://apps.apple.com/us/app/id6794844508?ct=lp", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "author": {"@type": "Organization", "name": "MadeInChimpanzee"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does it cost?", "acceptedAnswer": {"@type": "Answer", "text": "Free."}}, {"@type": "Question", "name": "Where is my data stored?", "acceptedAnswer": {"@type": "Answer", "text": "Only on your iPhone. No account and no sign-in required."}}, {"@type": "Question", "name": "Which devices are supported?", "acceptedAnswer": {"@type": "Answer", "text": "iPhone, from the App Store."}}, {"@type": "Question", "name": "How do I get in touch?", "acceptedAnswer": {"@type": "Answer", "text": "Email suportapps44@gmail.com."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "電線サイズと電圧降下 WireGauge", "operatingSystem": "iOS", "applicationCategory": "MobileApplication", "description": "電流・片道の長さ・電圧を入れるだけで、安全に使える最小の AWG が出ます。電圧降下と ABYC 許容電流を同時に判定し、どちらで太さが決まったのかも表示。逆算と早見表つき。完全オフラインの買い切りです。", "image": "https://madeinchimpanzee.github.io/app-legal/wiregauge/img/icon.png", "url": "https://madeinchimpanzee.github.io/app-legal/wiregauge/", "installUrl": "https://apps.apple.com/jp/app/id6794844508?ct=lp", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "JPY"}, "author": {"@type": "Organization", "name": "MadeInChimpanzee"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "料金はかかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "買い切り ¥800（サブスクではありません）。"}}, {"@type": "Question", "name": "対応機種は？", "acceptedAnswer": {"@type": "Answer", "text": "iPhone（App Store から入手）。"}}, {"@type": "Question", "name": "問い合わせ先は？", "acceptedAnswer": {"@type": "Answer", "text": "メール suportapps44@gmail.com までご連絡ください。"}}]}</script>
 <style>
 :root{--accent:#904503;--accent-dark:#703502;--accent-tint:#F1E8E0;--ink:#1F2430;--muted:#5F6673;--line:#E6E8EC;--bg:#FFFFFF}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -67,6 +67,7 @@ details p{font-size:14px;color:var(--muted);padding:8px 0 4px}
 .cta{background:var(--accent-tint);border-radius:22px;padding:34px 22px;text-align:center}
 .cta h2{border:0;padding:0;display:block;margin-bottom:10px;font-size:22px}
 .cta p{color:var(--muted);font-size:14px;margin-bottom:18px}
+.cta .devnote{margin:14px 0 0;font-size:13px}
 .kw{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
 .kw span{font-size:11.5px;color:var(--muted);background:#F1F3F6;border-radius:999px;padding:3px 10px}
 footer{border-top:1px solid var(--line);padding:26px 0 40px;font-size:13px;color:var(--muted)}
@@ -85,100 +86,105 @@ footer .notice{font-size:11.5px;margin-top:10px}
 <header class="top"><div class="wrap">
   <img src="img/icon.png" alt="" width="36" height="36">
   <span class="name">WireGauge</span>
-  <a class="btn cta-top" href="https://apps.apple.com/us/app/id6794844508?ct=lp" rel="noopener">View on the App Store</a>
+  <a class="btn cta-top" href="https://apps.apple.com/jp/app/id6794844508?ct=lp" rel="noopener">App Store で見る</a>
 </div></header>
 
 <section class="hero"><div class="wrap">
   <div>
     <img class="icon" src="img/icon.png" alt="WireGauge のアイコン" width="96" height="96">
-    <h1>WireGauge: DC Wire Size</h1>
-    <p class="sub">Voltage drop &amp; AWG</p>
-    <p class="lead">Size copper DC wiring right: check voltage drop and ABYC ampacity together, see which is the limit, and work backwards for max run or load. Offline, buy once.</p>
-    <a class="btn" href="https://apps.apple.com/us/app/id6794844508?ct=lp" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.7 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.1zM14.2 5c.7-.8 1.1-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.5 2.9-1.4z"/></svg>Download on the App Store</a>
-    <p class="price">Free.</p>
+    <h1>電線サイズと電圧降下 WireGauge</h1>
+    <p class="sub">AWGと許容電流 12V/24VのDC配線</p>
+    <p class="lead">電流・片道の長さ・電圧を入れるだけで、安全に使える最小の AWG が出ます。電圧降下と ABYC 許容電流を同時に判定し、どちらで太さが決まったのかも表示。逆算と早見表つき。完全オフラインの買い切りです。</p>
+    <a class="btn" href="https://apps.apple.com/jp/app/id6794844508?ct=lp" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.7 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.8 1.3 10.3.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.7-1-2.7-4.1zM14.2 5c.7-.8 1.1-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.5 2.9-1.4z"/></svg>App Store からダウンロード</a>
+    <p class="price">買い切り ¥800（サブスクではありません）。</p>
   </div>
-  <div class="phone"><img src="img/ss-02.jpg" alt="WireGauge screen" width="540"></div>
+  <div class="phone"><img src="img/ss-02.jpg" alt="WireGauge の画面" width="540"></div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>What it does</h2>
+  <h2>できること</h2>
   <div class="cards">
-<div class="card"><h3>SIZE IT IN SECONDS</h3><p>Enter current (amps), one-way run length, and system voltage (12 / 24 / 48 V). Get the smallest safe AWG, the real voltage drop in volts and percent, and the wire&#x27;s ampacity. See at a glance whether voltage drop or ampacity is the limiting factor.</p></div>
-<div class="card"><h3>TWO CHECKS, ONE ANSWER</h3><p>Voltage drop uses the standard ABYC round-trip model (2 x length x resistance x current). Ampacity follows ABYC E-11 Table 6A, with insulation temperature rating (60/75/90/105C) and bundle derating. Pick 3% for critical circuits (panels, electronics, nav lights) or 10% for non-critical loads - or set your own.</p></div>
-<div class="card"><h3>WORK IT BACKWARDS</h3><p>Have a spool already? Enter the AWG and find the maximum run length, or the maximum load current it can carry.</p></div>
-<div class="card"><h3>QUICK REFERENCE</h3><p>Built-in AWG table: cross-section in mm2, ampacity by temperature rating, and resistance per 1000 ft.</p></div>
-<div class="card"><h3>MADE FOR THE JOB</h3><p>Big, high-contrast readout that works in a garage or on deck. Copy any result to share or save. Buy once. No subscription. No ads. Works completely offline, with nothing to sign in to and no data leaving your device. WireGauge is a planning aid based on ABYC E-11 and standard copper resistance. It is not a substitute for the ABYC standard, a licensed electrician, or local code, and does not size overcurrent protection (fuses/breakers). Always verify before wiring.</p></div>
+
   </div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>Screens</h2>
+  <h2>画面</h2>
   <div class="shots">
-<figure class="shot"><img src="img/ss-01.jpg" alt="WireGauge screen 1" loading="eager" width="540"></figure>
-<figure class="shot"><img src="img/ss-02.jpg" alt="WireGauge screen 2" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-03.jpg" alt="WireGauge screen 3" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-04.jpg" alt="WireGauge screen 4" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-05.jpg" alt="WireGauge screen 5" loading="lazy" width="540"></figure>
-<figure class="shot"><img src="img/ss-06.jpg" alt="WireGauge screen 6" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-01.jpg" alt="WireGauge の画面 1" loading="eager" width="540"></figure>
+<figure class="shot"><img src="img/ss-02.jpg" alt="WireGauge の画面 2" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-03.jpg" alt="WireGauge の画面 3" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-04.jpg" alt="WireGauge の画面 4" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-05.jpg" alt="WireGauge の画面 5" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-06.jpg" alt="WireGauge の画面 6" loading="lazy" width="540"></figure>
+<figure class="shot"><img src="img/ss-07.jpg" alt="WireGauge の画面 7" loading="lazy" width="540"></figure>
   </div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>Details</h2>
+  <h2>詳しく</h2>
   <div class="detail">
-<p>WireGauge finds the right copper wire size for low-voltage DC circuits on boats, RVs, campers, vans, solar setups and vehicles - the fast, no-guesswork way.</p>
-<p>Most &quot;wire size&quot; charts only check one thing. WireGauge checks BOTH limits that actually matter and tells you which one decides your gauge:</p>
-<h3>SIZE IT IN SECONDS</h3>
+<p>その回路に、何 AWG の銅線を使えばいいのか。WireGauge は、電流・片道の配線長・システム電圧の3つから、安全に使える最小の電線サイズを数秒で出します。ボート、キャンピングカー、バン、車、ソーラーの 12V / 24V / 48V の DC 配線のためのアプリです。</p>
+<p>二つの基準を同時に見る</p>
+<p>世の中の早見表は、電圧降下か許容電流のどちらか片方しか見ていないものがほとんどです。けれど実際には、長い配線では電圧降下が、短くて大電流の配線では許容電流が太さを決めます。WireGauge は両方を計算し、今回どちらで決まったのかまで表示します。</p>
+<p>計算するもの</p>
 <ul>
-<li>Enter current (amps), one-way run length, and system voltage (12 / 24 / 48 V).</li>
-<li>Get the smallest safe AWG, the real voltage drop in volts and percent, and the wire&#x27;s ampacity.</li>
-<li>See at a glance whether voltage drop or ampacity is the limiting factor.</li>
+<li>安全に使える最小の AWG。</li>
+<li>その太さでの実際の電圧降下（V と %）。許容値を超えていれば赤で出ます。</li>
+<li>その太さの許容電流（耐熱温度と束ねる本数で低減した値）。</li>
+<li>電圧降下と許容電流の、どちらが効いているのか。</li>
+<li>4/0 でも足りない場合は、その旨と対処（負荷を分ける、電圧を上げる、短くする）。</li>
 </ul>
-<h3>TWO CHECKS, ONE ANSWER</h3>
+<p>数字の出どころ</p>
 <ul>
-<li>Voltage drop uses the standard ABYC round-trip model (2 x length x resistance x current).</li>
-<li>Ampacity follows ABYC E-11 Table 6A, with insulation temperature rating (60/75/90/105C) and bundle derating.</li>
-<li>Pick 3% for critical circuits (panels, electronics, nav lights) or 10% for non-critical loads - or set your own.</li>
+<li>電圧降下は ABYC の往復モデル（2 × 片道長 × 抵抗 × 電流）で計算します。</li>
+<li>許容電流は ABYC E-11 Table 6A（単線・機関室外）に従い、絶縁体の耐熱温度 60 / 75 / 90 / 105℃ と、束ねる本数（1本、2〜3本、4〜6本、7〜24本、25本以上）で低減します。</li>
+<li>許容する電圧降下は、重要な回路（分電盤、電子機器、航海灯）の 3% と、それ以外の 10% をプリセットで用意。0.5% 刻みで任意の値にもできます。</li>
 </ul>
-<h3>WORK IT BACKWARDS</h3>
+<p>逆算</p>
+<p>手持ちの電線から考えることもできます。AWG を選んで電流を入れれば引ける最大の片道長が（メートル換算つきで）、配線長を入れれば流せる最大の電流が出ます。その電線ではそもそも電流を流せない場合は警告します。</p>
+<p>AWG 早見表</p>
+<p>18 から 4/0 までについて、断面積 mm²（スケア／sq）、耐熱温度別の許容電流、1000ft あたりの抵抗を一覧にしています。AWG と mm² の対応を確認したいときにも使えます。</p>
+<p>現場で使う道具として</p>
 <ul>
-<li>Have a spool already? Enter the AWG and find the maximum run length, or the maximum load current it can carry.</li>
+<li>屋外やガレージ、船の上でも読める、大きく高コントラストな表示。</li>
+<li>結果はワンタップでコピーして、メモやメッセージに貼れます。</li>
+<li>入力した値は次に開いたときも残ります。</li>
+<li>完全にオフラインで動きます。アカウント不要、広告なし、サブスクなし、権限要求もゼロ。入力した内容が端末から出ることはありません。</li>
 </ul>
-<h3>QUICK REFERENCE</h3>
+<p>使う前に知っておいてほしいこと</p>
 <ul>
-<li>Built-in AWG table: cross-section in mm2, ampacity by temperature rating, and resistance per 1000 ft.</li>
+<li>計算の基準は ABYC E-11（米国の小型舟艇の電気規格）です。日本の内線規程や電気設備技術基準への適合判定は行いません。</li>
+<li>配線長の入力はフィート（ft）です。逆算の結果にはメートル換算も表示します。</li>
+<li>結果は AWG で表示します。mm²（スケア）は早見表で対応を確認してください。</li>
+<li>ヒューズやブレーカなどの過電流保護のサイズは対象外です。</li>
+<li>検討用の目安であり、ABYC 規格そのもの・電気工事の専門家・各地の法規の代わりにはなりません。配線の前に必ず確認してください。</li>
 </ul>
-<h3>MADE FOR THE JOB</h3>
-<ul>
-<li>Big, high-contrast readout that works in a garage or on deck.</li>
-<li>Copy any result to share or save.</li>
-<li>Buy once. No subscription. No ads. Works completely offline, with nothing to sign in to and no data leaving your device.</li>
-</ul>
-<p>WireGauge is a planning aid based on ABYC E-11 and standard copper resistance. It is not a substitute for the ABYC standard, a licensed electrician, or local code, and does not size overcurrent protection (fuses/breakers). Always verify before wiring.</p>
+<p>買い切りです。サービスではなく道具として使ってください。</p>
   </div>
 </div></section>
 
 <section><div class="wrap">
-  <h2>FAQ</h2>
-<details><summary>How much does it cost?</summary><p>Free.</p></details>
-<details><summary>Where is my data stored?</summary><p>Only on your iPhone. No account and no sign-in required.</p></details>
-<details><summary>Which devices are supported?</summary><p>iPhone, from the App Store.</p></details>
-<details><summary>How do I get in touch?</summary><p>Email suportapps44@gmail.com.</p></details>
+  <h2>よくある質問</h2>
+<details><summary>料金はかかりますか？</summary><p>買い切り ¥800（サブスクではありません）。</p></details>
+<details><summary>対応機種は？</summary><p>iPhone（App Store から入手）。</p></details>
+<details><summary>問い合わせ先は？</summary><p>メール suportapps44@gmail.com までご連絡ください。</p></details>
 </div></section>
 
 <section><div class="wrap">
   <div class="cta">
-    <h2>Try WireGauge</h2>
-    <p>Free.</p>
-    <a class="btn" href="https://apps.apple.com/us/app/id6794844508?ct=lp" rel="noopener">Download on the App Store</a>
+    <h2>WireGauge を使ってみる</h2>
+    <p>買い切り ¥800（サブスクではありません）。</p>
+    <a class="btn" href="https://apps.apple.com/jp/app/id6794844508?ct=lp" rel="noopener">App Store からダウンロード</a>
+    
   </div>
-  <div class="kw"><span>marine</span> <span>boat</span> <span>RV</span> <span>camper</span> <span>solar</span> <span>ampacity</span> <span>12V</span> <span>24V</span> <span>battery</span> <span>cable</span> <span>circuit</span> <span>electrical</span></div>
+  <div class="kw"><span>sq</span> <span>スケア</span> <span>mm2</span> <span>断面積</span> <span>より線</span> <span>銅線</span> <span>ケーブル</span> <span>ボート</span> <span>船</span> <span>キャンピングカー</span> <span>車中泊</span> <span>ソーラー</span></div>
 </div></section>
 
 <footer><div class="wrap">
-  <p class="links"><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="support.html">Support</a><a href="../apps/">All apps</a></p>
-  <p>© 2026 MadeInChimpanzee. Apple and App Store are trademarks of Apple Inc.</p>
-  <p class="notice">This page uses Cloudflare Web Analytics to count visits (page, referrer and approximate region; nothing that identifies you).</p>
+  <p class="links"><a href="privacy.html">プライバシーポリシー</a><a href="terms.html">利用規約</a><a href="support.html">サポート</a><a href="../apps/">アプリ一覧</a></p>
+  <p>© 2026 MadeInChimpanzee. Apple、App Store は Apple Inc. の商標です。</p>
+  <p class="notice">このページはアクセス数の把握のため Cloudflare Web Analytics を利用しています（閲覧ページ・参照元・おおよその地域などが送信されます。個人を特定する情報は含みません）。</p>
 </div></footer>
 </body>
 </html>
