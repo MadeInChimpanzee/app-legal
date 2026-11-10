@@ -13,7 +13,7 @@
     "subtitle": "残高・完済予定・節目のお祝い・繰上シミュ",
     "apple_id": "6784672017",
     "accent": "#2F4A8F",
-    "built": "2026-11-10"
+    "built": "2026-11-11"
   },
   "ruitai": {
     "slug": "ruitai",
@@ -41,11 +41,11 @@
   },
   "slomocoach": {
     "slug": "slomocoach",
-    "store_name": "SloMo Coach スロー動画フォーム分析",
-    "subtitle": "コマ送り・書き込み・2画面比較でうまくなる",
+    "store_name": "SloMo Coach 動画分析・フォームチェック",
+    "subtitle": "バッティングもコマ送り・2画面比較で上達",
     "apple_id": "6794845442",
     "accent": "#FF1E84",
-    "built": "2026-11-02"
+    "built": "2026-11-11"
   },
   "aketayo": {
     "slug": "aketayo",
@@ -317,7 +317,7 @@
     "subtitle": "Plate dissipation & OT match",
     "apple_id": "6795169914",
     "accent": "#A47229",
-    "built": "2026-10-11"
+    "built": "2026-11-11"
   },
   "ductwheel": {
     "slug": "ductwheel",
@@ -397,7 +397,7 @@
     "subtitle": "エアライフル・エアピストルの練習記録",
     "apple_id": "6794514978",
     "accent": "#D99448",
-    "built": "2026-11-10"
+    "built": "2026-11-11"
   },
   "diceodds": {
     "slug": "diceodds",
@@ -429,7 +429,7 @@
     "subtitle": "ゾーン判定・発作止め記録・受診PDF",
     "apple_id": "6794622470",
     "accent": "#169237",
-    "built": "2026-11-05"
+    "built": "2026-11-11"
   },
   "mysizenote": {
     "slug": "mysizenote",
@@ -485,7 +485,7 @@
     "subtitle": "二次会・同窓会の出欠管理と当日精算をこれ1つで",
     "apple_id": "6794311678",
     "accent": "#F59E54",
-    "built": "2026-11-10"
+    "built": "2026-11-11"
   },
   "shotnote": {
     "slug": "shotnote",
@@ -798,5 +798,29 @@
     "apple_id": "6790811054",
     "accent": "#00B1AC",
     "built": "2026-11-10"
+  },
+  "resincure": {
+    "slug": "resincure",
+    "store_name": "ResinCure レジン硬化タイマー＆積層ログ",
+    "subtitle": "UVアクセ作りの失敗を防ぐ制作記録",
+    "apple_id": "6791533839",
+    "accent": "#7B62F0",
+    "built": "2026-11-11"
+  },
+  "drapecalc": {
+    "slug": "drapecalc",
+    "store_name": "DrapeCalc: Curtain Fabric",
+    "subtitle": "Widths, drops & Roman blinds",
+    "apple_id": "6794844569",
+    "accent": "#108C8C",
+    "built": "2026-11-11"
+  },
+  "springrate": {
+    "slug": "springrate",
+    "store_name": "SpringRate サスペンション計算",
+    "subtitle": "ホイールレート/乗り心地周波数",
+    "apple_id": "6795146203",
+    "accent": "#B27714",
+    "built": "2026-11-11"
   }
 }
