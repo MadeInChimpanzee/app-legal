@@ -790,5 +790,13 @@
     "apple_id": "6790646798",
     "accent": "#1C222F",
     "built": "2026-11-09"
+  },
+  "eartype": {
+    "slug": "eartype",
+    "store_name": "EarType 聞いて打つリスニング練習",
+    "subtitle": "英数字と文を聞き取って入力・採点",
+    "apple_id": "6790811054",
+    "accent": "#00B1AC",
+    "built": "2026-11-10"
   }
 }
