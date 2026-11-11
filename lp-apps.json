@@ -257,11 +257,11 @@
   },
   "labelforge": {
     "slug": "labelforge",
-    "store_name": "LabelForge: Nutrition Facts",
-    "subtitle": "FDA food label maker & PDF",
+    "store_name": "LabelForge 米国FDA栄養成分ラベル",
+    "subtitle": "アメリカ向け Nutrition Facts 作成・PDF",
     "apple_id": "6795532938",
     "accent": "#077862",
-    "built": "2026-10-22"
+    "built": "2026-11-11"
   },
   "cellpackdesigner": {
     "slug": "cellpack",
