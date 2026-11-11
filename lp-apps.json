@@ -153,11 +153,11 @@
   },
   "sozokushiori": {
     "slug": "sozokushiori",
-    "store_name": "相続のしおり 手続きの期限と必要書類",
-    "subtitle": "放棄・相続税・登記の締切を通知",
+    "store_name": "相続のしおり 相続税と相続手続きの期限",
+    "subtitle": "必要書類と相続放棄・登記の締切を通知",
     "apple_id": "6785236085",
     "accent": "#925010",
-    "built": "2026-10-25"
+    "built": "2026-11-11"
   },
   "tsuinnote": {
     "slug": "tsuinnote",
@@ -425,8 +425,8 @@
   },
   "peakflowlog": {
     "slug": "peakflowlog",
-    "store_name": "ピークフロー記録 喘息ゾーン手帳",
-    "subtitle": "ゾーン判定・発作止め記録・受診PDF",
+    "store_name": "喘息日記 ピークフロー記録・ぜんそく手帳",
+    "subtitle": "発作止め・吸入の記録とゾーン判定・受診PDF",
     "apple_id": "6794622470",
     "accent": "#169237",
     "built": "2026-11-11"
@@ -713,11 +713,11 @@
   },
   "solvetime": {
     "slug": "solvetime",
-    "store_name": "SolveTime: Speedcube Timer",
-    "subtitle": "WCA scrambles, ao5, ao12",
+    "store_name": "SolveTime スピードキューブタイマー",
+    "subtitle": "WCAスクランブルとao5・ao12を記録",
     "apple_id": "6794981431",
     "accent": "#00BE4F",
-    "built": "2026-11-04"
+    "built": "2026-11-11"
   },
   "puzzleforge": {
     "slug": "puzzleforge",
@@ -793,11 +793,11 @@
   },
   "eartype": {
     "slug": "eartype",
-    "store_name": "EarType 聞いて打つリスニング練習",
+    "store_name": "EarType ディクテーションでリスニング練習",
     "subtitle": "英数字と文を聞き取って入力・採点",
     "apple_id": "6790811054",
     "accent": "#00B1AC",
-    "built": "2026-11-10"
+    "built": "2026-11-11"
   },
   "resincure": {
     "slug": "resincure",
