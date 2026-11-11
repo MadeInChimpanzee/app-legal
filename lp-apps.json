@@ -281,11 +281,11 @@
   },
   "zonepro": {
     "slug": "zonepro",
-    "store_name": "Zone Pro: HR Power Pace",
-    "subtitle": "Triathlon Training Zones",
+    "store_name": "Zone Pro: 心拍ゾーン・パワー・ペース",
+    "subtitle": "トライアスロンの練習ゾーンを一括計算",
     "apple_id": "6795739551",
     "accent": "#E94C31",
-    "built": "2026-10-25"
+    "built": "2026-11-12"
   },
   "hoursledger": {
     "slug": "hoursledger",
@@ -293,7 +293,7 @@
     "subtitle": "シフトの残業と時給を週ごとに集計",
     "apple_id": "6795364167",
     "accent": "#008D79",
-    "built": "2026-11-11"
+    "built": "2026-11-12"
   },
   "tappydots": {
     "slug": "tappydots",
@@ -357,15 +357,15 @@
     "subtitle": "ツーバイフォー・DIYの寸法計算と等分割",
     "apple_id": "6794600554",
     "accent": "#DA5F00",
-    "built": "2026-11-11"
+    "built": "2026-11-12"
   },
   "golfwhs": {
     "slug": "golfwhs",
-    "store_name": "GolfWHS: Handicap Index",
-    "subtitle": "Score tracker for every round",
+    "store_name": "GolfWHS: ゴルフのハンディキャップ",
+    "subtitle": "ハンデ計算とスコア記録をオフラインで",
     "apple_id": "6794844429",
     "accent": "#177B40",
-    "built": "2026-10-11"
+    "built": "2026-11-12"
   },
   "macrocalc": {
     "slug": "macrocalc",
@@ -373,7 +373,7 @@
     "subtitle": "Depth of Field & Diffraction",
     "apple_id": "6795010983",
     "accent": "#09858F",
-    "built": "2026-10-11"
+    "built": "2026-11-12"
   },
   "holdly": {
     "slug": "holdly",
@@ -429,7 +429,7 @@
     "subtitle": "発作止め・吸入の記録とゾーン判定・受診PDF",
     "apple_id": "6794622470",
     "accent": "#169237",
-    "built": "2026-11-11"
+    "built": "2026-11-12"
   },
   "mysizenote": {
     "slug": "mysizenote",
@@ -717,7 +717,7 @@
     "subtitle": "WCAスクランブルとao5・ao12を記録",
     "apple_id": "6794981431",
     "accent": "#00BE4F",
-    "built": "2026-11-11"
+    "built": "2026-11-12"
   },
   "puzzleforge": {
     "slug": "puzzleforge",
@@ -757,7 +757,7 @@
     "subtitle": "平成レトロな日付スタンプ＆フィルム加工",
     "apple_id": "6790144937",
     "accent": "#C0550E",
-    "built": "2026-11-09"
+    "built": "2026-11-12"
   },
   "sighty": {
     "slug": "sighty",
@@ -830,5 +830,13 @@
     "apple_id": "6794372804",
     "accent": "#0A93A7",
     "built": "2026-11-11"
+  },
+  "sewyardage": {
+    "slug": "sewyardage",
+    "store_name": "SewYardage: Fabric Calc",
+    "subtitle": "Yardage for garments",
+    "apple_id": "6794844522",
+    "accent": "#C5573C",
+    "built": "2026-11-12"
   }
 }
