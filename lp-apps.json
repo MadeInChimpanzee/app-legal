@@ -786,10 +786,10 @@
   "kotoba": {
     "slug": "kotoba",
     "store_name": "Kotoba: Learn Japanese N5",
-    "subtitle": "JLPT words, flashcards, audio",
+    "subtitle": "Hiragana, Katakana & N5 Words",
     "apple_id": "6790646798",
     "accent": "#1C222F",
-    "built": "2026-11-09"
+    "built": "2026-11-12"
   },
   "eartype": {
     "slug": "eartype",
