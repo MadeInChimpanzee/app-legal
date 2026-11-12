@@ -1,11 +1,11 @@
 {
   "memailog": {
     "slug": "memailog",
-    "store_name": "めまいログ メニエール・耳鳴りと気圧の記録ノート",
-    "subtitle": "発作が来たらワンタップ・天気痛対策と通院メモに",
+    "store_name": "めまいログ 耳鳴り・メニエール・気圧の記録",
+    "subtitle": "発作記録はワンタップ・気象病や天気痛の通院メモに",
     "apple_id": "6784697218",
     "accent": "#109797",
-    "built": "2026-11-09"
+    "built": "2026-11-12"
   },
   "kansainote": {
     "slug": "kansainote",
