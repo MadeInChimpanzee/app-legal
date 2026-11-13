@@ -838,5 +838,13 @@
     "apple_id": "6794844522",
     "accent": "#C5573C",
     "built": "2026-11-12"
+  },
+  "dicevault": {
+    "slug": "dicevault",
+    "store_name": "DiceVault - ダイスコレクション管理",
+    "subtitle": "TRPGのダイスを写真で記録・整理",
+    "apple_id": "6790056725",
+    "accent": "#160E40",
+    "built": "2026-11-13"
   }
 }
