@@ -5,7 +5,7 @@
     "subtitle": "発作記録はワンタップ・気象病や天気痛の通院メモに",
     "apple_id": "6784697218",
     "accent": "#109797",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "kansainote": {
     "slug": "kansainote",
@@ -13,7 +13,7 @@
     "subtitle": "リボ・任意整理も 完済日と繰上げ返済を計算",
     "apple_id": "6784672017",
     "accent": "#2F4A8F",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "ruitai": {
     "slug": "ruitai",
@@ -21,7 +21,7 @@
     "subtitle": "語彙力・言い換え力アップ 大人も漢検も",
     "apple_id": "6787418779",
     "accent": "#F69949",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "sayable": {
     "slug": "sayable",
@@ -29,7 +29,7 @@
     "subtitle": "失語症・ALSの筆談ボード 代わりに喋る読み上げ",
     "apple_id": "6792041501",
     "accent": "#EE9606",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "okeikogessha": {
     "slug": "okeikogessha",
@@ -45,7 +45,7 @@
     "subtitle": "バッティングもコマ送り・2画面比較で上達",
     "apple_id": "6794845442",
     "accent": "#FF1E84",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "aketayo": {
     "slug": "aketayo",
@@ -53,7 +53,7 @@
     "subtitle": "開封日を入れるだけ。コスメ期限を自動計算＆通知",
     "apple_id": "6790045652",
     "accent": "#8E4D26",
-    "built": "2026-11-02"
+    "built": "2026-11-13"
   },
   "moshimonote": {
     "slug": "moshimonote",
@@ -61,7 +61,7 @@
     "subtitle": "サブスク・アカウントを家族へ残す相続メモ",
     "apple_id": "6790240113",
     "accent": "#C25A43",
-    "built": "2026-11-06"
+    "built": "2026-11-13"
   },
   "onetake": {
     "slug": "onetake",
@@ -69,7 +69,7 @@
     "subtitle": "台本を見ながら動画撮影。カメラ目線で一発撮り",
     "apple_id": "6792292179",
     "accent": "#32A08D",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "spoonful": {
     "slug": "spoonful",
@@ -77,15 +77,15 @@
     "subtitle": "HSPさんの疲れを数えて、燃え尽きる前に休む",
     "apple_id": "6792185195",
     "accent": "#CC8569",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "tinnitusnotch": {
     "slug": "tinnitusnotch",
     "store_name": "TinnitusNotch 耳鳴り対策・マスキング",
     "subtitle": "ノッチ音と雨・波の環境音で、睡眠と集中をサポート",
     "apple_id": "6791180509",
-    "accent": "#183B59",
-    "built": "2026-10-20"
+    "accent": "#3E908E",
+    "built": "2026-11-13"
   },
   "progressly": {
     "slug": "progressly",
@@ -93,7 +93,7 @@
     "subtitle": "毎回同じ構図で撮る変化記録",
     "apple_id": "6789591055",
     "accent": "#00AFA6",
-    "built": "2026-11-09"
+    "built": "2026-11-13"
   },
   "kanji3": {
     "slug": "kanji3",
@@ -101,7 +101,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790055787",
     "accent": "#E98949",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "sonaehi": {
     "slug": "sonaehi",
@@ -109,7 +109,7 @@
     "subtitle": "年払いの保険・税金に備える家計簿と貯金・予算管理",
     "apple_id": "6783801899",
     "accent": "#AE6F1B",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "superheat": {
     "slug": "superheat",
@@ -117,7 +117,7 @@
     "subtitle": "過熱度・過冷却度とPT線図を即計算",
     "apple_id": "6794613254",
     "accent": "#FE4000",
-    "built": "2026-10-11"
+    "built": "2026-11-13"
   },
   "cooldownshelf": {
     "slug": "cooldownshelf",
@@ -125,7 +125,7 @@
     "subtitle": "買う前に一拍、無駄遣いと後悔を減らす",
     "apple_id": "6782241234",
     "accent": "#ED3D31",
-    "built": "2026-11-10"
+    "built": "2026-11-13"
   },
   "ateit": {
     "slug": "ateit",
@@ -133,7 +133,7 @@
     "subtitle": "こどもの好き嫌いと食事メモ",
     "apple_id": "6791841704",
     "accent": "#ECB48A",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "reacdori": {
     "slug": "reacdori",
@@ -141,7 +141,7 @@
     "subtitle": "両面をワイプ・分割で撮影／買い切り広告なし",
     "apple_id": "6788761561",
     "accent": "#19AB8E",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "allergykidnote": {
     "slug": "allergykidnote",
@@ -149,7 +149,7 @@
     "subtitle": "除去食・エピペン期限・園提出を1冊に",
     "apple_id": "6794524270",
     "accent": "#BD5B42",
-    "built": "2026-10-26"
+    "built": "2026-11-13"
   },
   "sozokushiori": {
     "slug": "sozokushiori",
@@ -157,7 +157,7 @@
     "subtitle": "必要書類と相続放棄・登記の締切を通知",
     "apple_id": "6785236085",
     "accent": "#925010",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "tsuinnote": {
     "slug": "tsuinnote",
@@ -165,7 +165,7 @@
     "subtitle": "前回の受診から今日までを、主治医に1枚で",
     "apple_id": "6782272499",
     "accent": "#E36A4E",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "heatcost": {
     "slug": "heatcost",
@@ -173,7 +173,7 @@
     "subtitle": "薪・ペレット・灯油・ガス・電気",
     "apple_id": "6795146108",
     "accent": "#E74A10",
-    "built": "2026-10-11"
+    "built": "2026-11-13"
   },
   "gakkomikurabe": {
     "slug": "gakkomikurabe",
@@ -189,7 +189,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6789917332",
     "accent": "#E88644",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "kinkyaba": {
     "slug": "kinkyaba",
@@ -197,7 +197,7 @@
     "subtitle": "断ち日数を記録して継続、浮いたお金も見える化",
     "apple_id": "6782355964",
     "accent": "#702F1A",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "tsugicare": {
     "slug": "tsugicare",
@@ -205,7 +205,7 @@
     "subtitle": "美容ルーティンの次いつを、適期に通知",
     "apple_id": "6790053002",
     "accent": "#E35F54",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "kanji4": {
     "slug": "kanji4",
@@ -213,7 +213,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790086657",
     "accent": "#E98949",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "kanji6": {
     "slug": "kanji6",
@@ -221,7 +221,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790098252",
     "accent": "#E98949",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "kanji2": {
     "slug": "kanji2",
@@ -229,7 +229,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790049822",
     "accent": "#E98949",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "kanji5": {
     "slug": "kanji5",
@@ -237,7 +237,7 @@
     "subtitle": "小学校の漢字を 読み・書き・カードで",
     "apple_id": "6790094383",
     "accent": "#E98949",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "kinpachis": {
     "slug": "kinpachisensei",
@@ -245,7 +245,7 @@
     "subtitle": "ギャンブル禁止・依存症対策 守ったお金と日数を記録",
     "apple_id": "6780413825",
     "accent": "#290020",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "taikyocheck": {
     "slug": "taikyo",
@@ -253,7 +253,7 @@
     "subtitle": "その請求、妥当？交渉と減額を後押し",
     "apple_id": "6782338981",
     "accent": "#E85800",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "labelforge": {
     "slug": "labelforge",
@@ -261,7 +261,7 @@
     "subtitle": "アメリカ向け Nutrition Facts 作成・PDF",
     "apple_id": "6795532938",
     "accent": "#077862",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "cellpackdesigner": {
     "slug": "cellpack",
@@ -277,7 +277,7 @@
     "subtitle": "ぐずった時に、さわると泡や光がふわり",
     "apple_id": "6791547401",
     "accent": "#89C5EF",
-    "built": "2026-11-09"
+    "built": "2026-11-13"
   },
   "zonepro": {
     "slug": "zonepro",
@@ -285,7 +285,7 @@
     "subtitle": "トライアスロンの練習ゾーンを一括計算",
     "apple_id": "6795739551",
     "accent": "#E94C31",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "hoursledger": {
     "slug": "hoursledger",
@@ -293,7 +293,7 @@
     "subtitle": "シフトの残業と時給を週ごとに集計",
     "apple_id": "6795364167",
     "accent": "#008D79",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "tappydots": {
     "slug": "tappydots",
@@ -305,11 +305,11 @@
   },
   "calibrate": {
     "slug": "calibrate",
-    "store_name": "Calibrate: Forecast Journal",
-    "subtitle": "Brier score and calibration",
+    "store_name": "Calibrate - 予測ノート・判断力トレーニング",
+    "subtitle": "確率で予想を記録しブライアスコアで答え合わせ",
     "apple_id": "6794981990",
     "accent": "#263866",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "tubebias": {
     "slug": "tubebias",
@@ -317,15 +317,15 @@
     "subtitle": "Plate dissipation & OT match",
     "apple_id": "6795169914",
     "accent": "#A47229",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "ductwheel": {
     "slug": "ductwheel",
-    "store_name": "DuctWheel - HVAC Duct Sizer",
-    "subtitle": "Round & Rectangular Sizing",
+    "store_name": "DuctWheel - ダクトサイズ計算",
+    "subtitle": "等摩擦法で丸ダクト・角ダクトを選定",
     "apple_id": "6796186947",
     "accent": "#F87114",
-    "built": "2026-11-06"
+    "built": "2026-11-13"
   },
   "segmentcalc": {
     "slug": "segmentcalc",
@@ -357,7 +357,7 @@
     "subtitle": "ツーバイフォー・DIYの寸法計算と等分割",
     "apple_id": "6794600554",
     "accent": "#DA5F00",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "golfwhs": {
     "slug": "golfwhs",
@@ -365,7 +365,7 @@
     "subtitle": "ハンデ計算とスコア記録をオフラインで",
     "apple_id": "6794844429",
     "accent": "#177B40",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "macrocalc": {
     "slug": "macrocalc",
@@ -377,19 +377,19 @@
   },
   "holdly": {
     "slug": "holdly",
-    "store_name": "Holdly – Isometric Timer",
-    "subtitle": "Plank & Wall Sit · auto +5s",
+    "store_name": "Holdly プランクタイマー 体幹トレ",
+    "subtitle": "ウォールシットも 自動で+5秒ずつ",
     "apple_id": "6789790139",
     "accent": "#FB4B07",
-    "built": "2026-10-30"
+    "built": "2026-11-13"
   },
   "archerygold": {
     "slug": "gold",
-    "store_name": "Gold Archery Score & Plot",
-    "subtitle": "Track rounds, groups & classes",
+    "store_name": "Gold: アーチェリー スコア記録",
+    "subtitle": "点数・着弾プロット・グルーピング",
     "apple_id": "6790806161",
     "accent": "#E84A3C",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "decimaltarget": {
     "slug": "decimaltarget",
@@ -397,7 +397,7 @@
     "subtitle": "エアライフル・エアピストルの練習記録",
     "apple_id": "6794514978",
     "accent": "#D99448",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "diceodds": {
     "slug": "diceodds",
@@ -413,7 +413,7 @@
     "subtitle": "新生児の白黒カードとうつぶせ練習記録",
     "apple_id": "6790786341",
     "accent": "#FF1C1C",
-    "built": "2026-11-09"
+    "built": "2026-11-13"
   },
   "flatbend": {
     "slug": "flatbend",
@@ -429,7 +429,7 @@
     "subtitle": "発作止め・吸入の記録とゾーン判定・受診PDF",
     "apple_id": "6794622470",
     "accent": "#169237",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "mysizenote": {
     "slug": "mysizenote",
@@ -437,7 +437,7 @@
     "subtitle": "洋服の採寸メモ 試着なしでサイズ感が分かる",
     "apple_id": "6790414575",
     "accent": "#3680E3",
-    "built": "2026-11-09"
+    "built": "2026-11-13"
   },
   "kinens": {
     "slug": "kinens",
@@ -445,7 +445,7 @@
     "subtitle": "健康の回復も見える。吸いたい時はSOS",
     "apple_id": "6781254858",
     "accent": "#B6520B",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "ietanote": {
     "slug": "ietanote",
@@ -453,7 +453,7 @@
     "subtitle": "オンライン英会話を録音つきで訂正・言い直し",
     "apple_id": "6790363404",
     "accent": "#068787",
-    "built": "2026-10-22"
+    "built": "2026-11-13"
   },
   "poikigen": {
     "slug": "poikigen",
@@ -461,7 +461,7 @@
     "subtitle": "楽天・PayPay・dのポイ活を逃さず使い切る",
     "apple_id": "6790653104",
     "accent": "#004D61",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "kinhost": {
     "slug": "kinhost",
@@ -469,7 +469,7 @@
     "subtitle": "浪費と気持ちをそっと見直すセルフケア",
     "apple_id": "6782556684",
     "accent": "#915C3C",
-    "built": "2026-10-23"
+    "built": "2026-11-13"
   },
   "hiraganazukan": {
     "slug": "hiraganazukan",
@@ -477,7 +477,7 @@
     "subtitle": "幼児の書き方｜紙に書いて図鑑に集める",
     "apple_id": "6789614898",
     "accent": "#814E1B",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "thekanji": {
     "slug": "thekanji",
@@ -485,15 +485,15 @@
     "subtitle": "二次会・同窓会の出欠管理と当日精算をこれ1つで",
     "apple_id": "6794311678",
     "accent": "#F59E54",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "shotnote": {
     "slug": "shotnote",
-    "store_name": "ショットノート 出張撮影のカット管理",
+    "store_name": "カットノート 出張撮影のショットリスト",
     "subtitle": "七五三・お宮参り カメラマンの段取り表",
     "apple_id": "6785001910",
     "accent": "#2AA568",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "kotowaza": {
     "slug": "kotowaza",
@@ -501,7 +501,7 @@
     "subtitle": "国語や受験対策に｜苦手を間隔反復・広告なし",
     "apple_id": "6789029421",
     "accent": "#1B2051",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "tsuzukerukun": {
     "slug": "tsuzukerukun",
@@ -509,7 +509,7 @@
     "subtitle": "挫折しそうな日に、そっと背中を押す",
     "apple_id": "6789876115",
     "accent": "#895BF0",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "taishokuhp": {
     "slug": "taishoku",
@@ -517,7 +517,7 @@
     "subtitle": "嫌なことで満タン、転職まったなし",
     "apple_id": "6783833889",
     "accent": "#C0731B",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "alphabetzukan": {
     "slug": "alphabetzukan",
@@ -525,7 +525,7 @@
     "subtitle": "ABCの大文字小文字を書く入学準備",
     "apple_id": "6790117543",
     "accent": "#824E1C",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "idphotofit": {
     "slug": "idphotofit",
@@ -533,7 +533,7 @@
     "subtitle": "規格ぴったりに自動調整、広告なし",
     "apple_id": "6792667067",
     "accent": "#0056CB",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "kekanrishoku": {
     "slug": "kekanrishoku",
@@ -541,7 +541,7 @@
     "subtitle": "放置すると伸びる。整える身だしなみ習慣",
     "apple_id": "6794354892",
     "accent": "#F59A4C",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "zutsu": {
     "slug": "zutsu",
@@ -549,7 +549,7 @@
     "subtitle": "頭痛日記をワンタップ。薬の飲みすぎを日数で見張る",
     "apple_id": "6789597085",
     "accent": "#001634",
-    "built": "2026-11-09"
+    "built": "2026-11-13"
   },
   "yoikuhimamori": {
     "slug": "yoikuhimamori",
@@ -565,7 +565,7 @@
     "subtitle": "サイズアウト前に買い替え時期を予測通知",
     "apple_id": "6789391493",
     "accent": "#D05917",
-    "built": "2026-10-25"
+    "built": "2026-11-13"
   },
   "mensetsunote": {
     "slug": "mensetsunote",
@@ -581,7 +581,7 @@
     "subtitle": "貯めて推し活・衝動買いを節約",
     "apple_id": "6785727595",
     "accent": "#DB8821",
-    "built": "2026-10-26"
+    "built": "2026-11-13"
   },
   "unsent": {
     "slug": "unsent",
@@ -589,7 +589,7 @@
     "subtitle": "送れない言葉を、そっとしまう",
     "apple_id": "6783368437",
     "accent": "#741404",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "tsumenobi": {
     "slug": "tsumenobi",
@@ -597,7 +597,7 @@
     "subtitle": "爪噛みをやめる｜爪の成長を写真で記録",
     "apple_id": "6789411641",
     "accent": "#EE5F50",
-    "built": "2026-10-26"
+    "built": "2026-11-13"
   },
   "hakkonote": {
     "slug": "hakko",
@@ -605,7 +605,7 @@
     "subtitle": "塩麹もキムチも 混ぜる日をお知らせ",
     "apple_id": "6792280250",
     "accent": "#BA643A",
-    "built": "2026-10-26"
+    "built": "2026-11-13"
   },
   "kodomogoroku": {
     "slug": "kodomo-goroku",
@@ -613,7 +613,7 @@
     "subtitle": "言い間違いも名言も、今だけの宝物",
     "apple_id": "6782562338",
     "accent": "#4D0001",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "nanpun": {
     "slug": "nanpun",
@@ -621,7 +621,7 @@
     "subtitle": "食べた分を運動何分に換算 有酸素で減量",
     "apple_id": "6791984048",
     "accent": "#B5634F",
-    "built": "2026-10-26"
+    "built": "2026-11-13"
   },
   "tsuwarilog": {
     "slug": "tsuwarilog",
@@ -629,7 +629,7 @@
     "subtitle": "食べられた物・水分・嘔吐・日記をやさしく記録",
     "apple_id": "6788953319",
     "accent": "#C56851",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "zairyushift": {
     "slug": "zairyushift",
@@ -637,7 +637,7 @@
     "subtitle": "外国人スタッフの週28時間と期限を管理",
     "apple_id": "6810888234",
     "accent": "#E28C11",
-    "built": "2026-11-01"
+    "built": "2026-11-13"
   },
   "shikikinmamori": {
     "slug": "shikikinmamori",
@@ -645,7 +645,7 @@
     "subtitle": "賃貸の原状回復・撮影ナビと証拠PDFで記録",
     "apple_id": "6793978092",
     "accent": "#F69C4F",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "naraigotokakei": {
     "slug": "naraigotokakei",
@@ -653,7 +653,7 @@
     "subtitle": "子どもの教育費を年間で見える化",
     "apple_id": "6792757823",
     "accent": "#F69A4D",
-    "built": "2026-10-30"
+    "built": "2026-11-13"
   },
   "kinkennote": {
     "slug": "kinkennote",
@@ -661,7 +661,7 @@
     "subtitle": "株主優待・図書カードの失効を通知でお知らせ",
     "apple_id": "6790600935",
     "accent": "#074E2A",
-    "built": "2026-10-30"
+    "built": "2026-11-13"
   },
   "kotsutan5": {
     "slug": "kotsutan5",
@@ -669,7 +669,7 @@
     "subtitle": "52レッスン・クイズ・例文つき・広告なし",
     "apple_id": "6790432471",
     "accent": "#FF953C",
-    "built": "2026-10-30"
+    "built": "2026-11-13"
   },
   "fadelog": {
     "slug": "fadelog",
@@ -677,7 +677,7 @@
     "subtitle": "次回可能日と費用・写真をまとめて管理",
     "apple_id": "6792659765",
     "accent": "#622F09",
-    "built": "2026-10-30"
+    "built": "2026-11-13"
   },
   "shinsotsutofu": {
     "slug": "shinsotsutofu",
@@ -685,7 +685,7 @@
     "subtitle": "悪魔と天使が寄り添う、心の受け皿",
     "apple_id": "6784667006",
     "accent": "#CD6700",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "colortouch": {
     "slug": "colortouch",
@@ -701,7 +701,7 @@
     "subtitle": "501の上がり練習・ダブル＆早見表",
     "apple_id": "6790624147",
     "accent": "#21AB5C",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "sushiatlas": {
     "slug": "sushiatlas",
@@ -709,7 +709,7 @@
     "subtitle": "Names, photos & pronunciation",
     "apple_id": "6789874878",
     "accent": "#C15242",
-    "built": "2026-11-02"
+    "built": "2026-11-13"
   },
   "solvetime": {
     "slug": "solvetime",
@@ -717,15 +717,15 @@
     "subtitle": "WCAスクランブルとao5・ao12を記録",
     "apple_id": "6794981431",
     "accent": "#00BE4F",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "puzzleforge": {
     "slug": "puzzleforge",
-    "store_name": "PuzzleForge: Sudoku Book Maker",
-    "subtitle": "Print-ready puzzles for KDP",
+    "store_name": "PuzzleForge 数独問題集メーカー",
+    "subtitle": "唯一解のナンプレを印刷用PDFで量産",
     "apple_id": "6797230948",
     "accent": "#E8701C",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "bleedmark": {
     "slug": "bleedmark",
@@ -741,7 +741,7 @@
     "subtitle": "色で覚える独語の性 der/die/das",
     "apple_id": "6791185523",
     "accent": "#007EFF",
-    "built": "2026-11-04"
+    "built": "2026-11-13"
   },
   "metropulse": {
     "slug": "metropulse",
@@ -757,7 +757,7 @@
     "subtitle": "平成レトロな日付スタンプ＆フィルム加工",
     "apple_id": "6790144937",
     "accent": "#C0550E",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "sighty": {
     "slug": "sighty",
@@ -765,7 +765,7 @@
     "subtitle": "オルソ・点眼・屋外を毎日記録",
     "apple_id": "6791967239",
     "accent": "#F09B2F",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "celllog": {
     "slug": "celllog",
@@ -773,7 +773,7 @@
     "subtitle": "サイクル・内部抵抗・退役判断の記録",
     "apple_id": "6793566288",
     "accent": "#63921C",
-    "built": "2026-11-05"
+    "built": "2026-11-13"
   },
   "ganacheratio": {
     "slug": "ganacheratio",
@@ -789,7 +789,7 @@
     "subtitle": "Hiragana, Katakana & N5 Words",
     "apple_id": "6790646798",
     "accent": "#1C222F",
-    "built": "2026-11-12"
+    "built": "2026-11-13"
   },
   "eartype": {
     "slug": "eartype",
@@ -797,7 +797,7 @@
     "subtitle": "英数字と文を聞き取って入力・採点",
     "apple_id": "6790811054",
     "accent": "#00B1AC",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "resincure": {
     "slug": "resincure",
@@ -805,7 +805,7 @@
     "subtitle": "UVアクセ作りの失敗を防ぐ制作記録",
     "apple_id": "6791533839",
     "accent": "#7B62F0",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "drapecalc": {
     "slug": "drapecalc",
@@ -821,7 +821,7 @@
     "subtitle": "ホイールレート/乗り心地周波数",
     "apple_id": "6795146203",
     "accent": "#B27714",
-    "built": "2026-11-11"
+    "built": "2026-11-13"
   },
   "fold": {
     "slug": "fold",
