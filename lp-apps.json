@@ -846,5 +846,21 @@
     "apple_id": "6790056725",
     "accent": "#160E40",
     "built": "2026-11-13"
+  },
+  "closeout": {
+    "slug": "closeout",
+    "store_name": "納品じまい 案件管理・入金管理・請求の取りこぼし防止",
+    "subtitle": "フリーランスの請求管理と未入金チェック",
+    "apple_id": "6797176141",
+    "accent": "#CC542C",
+    "built": "2026-11-16"
+  },
+  "futokonote": {
+    "slug": "futokonote",
+    "store_name": "ゆっくりノート 起立性調節障害・不登校の記録",
+    "subtitle": "行き渋りの毎日を1タップ。面談で経過を1枚に",
+    "apple_id": "6830531357",
+    "accent": "#2E4B77",
+    "built": "2026-11-16"
   }
 }
