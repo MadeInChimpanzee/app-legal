@@ -297,11 +297,11 @@
   },
   "tappydots": {
     "slug": "tappydots",
-    "store_name": "Tappy Dots: Dot Marker Art",
-    "subtitle": "Tap & color for toddlers",
+    "store_name": "ぺたぺたドット ゆびでポンとおえかき知育",
+    "subtitle": "もじが読めない子もひとりで遊べるぬりえ",
     "apple_id": "6792228168",
     "accent": "#987A32",
-    "built": "2026-10-11"
+    "built": "2026-11-18"
   },
   "calibrate": {
     "slug": "calibrate",
@@ -329,11 +329,11 @@
   },
   "segmentcalc": {
     "slug": "segmentcalc",
-    "store_name": "SegmentCalc: Woodturning",
-    "subtitle": "Miter angle & segment length",
+    "store_name": "留め角計算 セグメント木工旋盤 SegmentCalc",
+    "subtitle": "外径と分割数から辺の長さと板取り",
     "apple_id": "6794844801",
     "accent": "#7D5025",
-    "built": "2026-10-25"
+    "built": "2026-11-18"
   },
   "slopecalc": {
     "slug": "slopecalc",
@@ -369,11 +369,11 @@
   },
   "macrocalc": {
     "slug": "macrocalc",
-    "store_name": "Macro Photo Calc: DOF",
-    "subtitle": "Depth of Field & Diffraction",
+    "store_name": "Macro Photo Calc マクロ撮影計算",
+    "subtitle": "被写界深度・回折限界・深度合成",
     "apple_id": "6795010983",
     "accent": "#09858F",
-    "built": "2026-11-12"
+    "built": "2026-11-18"
   },
   "holdly": {
     "slug": "holdly",
@@ -853,7 +853,7 @@
     "subtitle": "フリーランスの請求管理と未入金チェック",
     "apple_id": "6797176141",
     "accent": "#CC542C",
-    "built": "2026-11-16"
+    "built": "2026-11-18"
   },
   "futokonote": {
     "slug": "futokonote",
@@ -861,7 +861,7 @@
     "subtitle": "行き渋りの毎日を1タップ。面談で経過を1枚に",
     "apple_id": "6830531357",
     "accent": "#2E4B77",
-    "built": "2026-11-16"
+    "built": "2026-11-18"
   },
   "freelancerate": {
     "slug": "freelancerate",
@@ -877,6 +877,14 @@
     "subtitle": "ポケットの中から音と振動で合図",
     "apple_id": "6795364931",
     "accent": "#FF8C2A",
+    "built": "2026-11-18"
+  },
+  "halfy": {
+    "slug": "halfy",
+    "store_name": "Halfy ハーフフレームカメラ・フィルム風",
+    "subtitle": "縦2枚で1枚のレトロ写真・日付焼き込み",
+    "apple_id": "6791986922",
+    "accent": "#AE6C21",
     "built": "2026-11-18"
   }
 }
