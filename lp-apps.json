@@ -346,10 +346,10 @@
   "wiregauge": {
     "slug": "wiregauge",
     "store_name": "電線サイズと電圧降下 WireGauge",
-    "subtitle": "AWGと許容電流 12V/24VのDC配線",
+    "subtitle": "sqとAWG・許容電流 12V/24VのDC配線",
     "apple_id": "6794844508",
     "accent": "#904503",
-    "built": "2026-11-08"
+    "built": "2026-11-18"
   },
   "tapecalc": {
     "slug": "tapecalc",
@@ -781,7 +781,7 @@
     "subtitle": "チョコと生クリームの配合をケーキから逆算",
     "apple_id": "6795010671",
     "accent": "#552D1B",
-    "built": "2026-11-08"
+    "built": "2026-11-18"
   },
   "kotoba": {
     "slug": "kotoba",
@@ -862,5 +862,21 @@
     "apple_id": "6830531357",
     "accent": "#2E4B77",
     "built": "2026-11-16"
+  },
+  "freelancerate": {
+    "slug": "freelancerate",
+    "store_name": "逆算レート フリーランス時給・単価・手取り計算",
+    "subtitle": "日給・年収も逆算 経費と税・社保を考慮",
+    "apple_id": "6795396068",
+    "accent": "#053763",
+    "built": "2026-11-18"
+  },
+  "stridecycle": {
+    "slug": "stridecycle",
+    "store_name": "インターバル速歩タイマー 速歩3分",
+    "subtitle": "ポケットの中から音と振動で合図",
+    "apple_id": "6795364931",
+    "accent": "#FF8C2A",
+    "built": "2026-11-18"
   }
 }
