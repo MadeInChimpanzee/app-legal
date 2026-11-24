@@ -73,11 +73,11 @@
   },
   "spoonful": {
     "slug": "spoonful",
-    "store_name": "スプーンフル スプーン理論で気力と疲労を見える化する手帳",
-    "subtitle": "HSPさんの疲れを数えて、燃え尽きる前に休む",
+    "store_name": "スプーンフル HSPの気力と疲れ・スプーン理論",
+    "subtitle": "繊細さんの燃え尽き・バーンアウトを防ぐ記録",
     "apple_id": "6792185195",
     "accent": "#CC8569",
-    "built": "2026-11-13"
+    "built": "2026-11-24"
   },
   "tinnitusnotch": {
     "slug": "tinnitusnotch",
@@ -450,18 +450,18 @@
   "ietanote": {
     "slug": "ietanote",
     "store_name": "言えたノート 英会話レッスンの言い間違い復習",
-    "subtitle": "オンライン英会話を録音つきで訂正・言い直し",
+    "subtitle": "英会話フレーズの言い直しを録音つきで復習",
     "apple_id": "6790363404",
     "accent": "#068787",
-    "built": "2026-11-13"
+    "built": "2026-11-24"
   },
   "poikigen": {
     "slug": "poikigen",
     "store_name": "ポイ期限 ポイント有効期限の通知と失効防止",
-    "subtitle": "楽天・PayPay・dのポイ活を逃さず使い切る",
+    "subtitle": "楽天・PayPay・dのポイント管理で使い切る",
     "apple_id": "6790653104",
     "accent": "#004D61",
-    "built": "2026-11-13"
+    "built": "2026-11-24"
   },
   "kinhost": {
     "slug": "kinhost",
@@ -677,7 +677,7 @@
     "subtitle": "次回可能日と費用・写真をまとめて管理",
     "apple_id": "6792659765",
     "accent": "#622F09",
-    "built": "2026-11-13"
+    "built": "2026-11-24"
   },
   "shinsotsutofu": {
     "slug": "shinsotsutofu",
@@ -853,7 +853,7 @@
     "subtitle": "フリーランスの請求管理と未入金チェック",
     "apple_id": "6797176141",
     "accent": "#CC542C",
-    "built": "2026-11-18"
+    "built": "2026-11-24"
   },
   "futokonote": {
     "slug": "futokonote",
@@ -861,7 +861,7 @@
     "subtitle": "行き渋りの毎日を1タップ。面談で経過を1枚に",
     "apple_id": "6830531357",
     "accent": "#2E4B77",
-    "built": "2026-11-18"
+    "built": "2026-11-24"
   },
   "freelancerate": {
     "slug": "freelancerate",
