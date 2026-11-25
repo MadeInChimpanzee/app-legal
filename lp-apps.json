@@ -886,5 +886,13 @@
     "apple_id": "6791986922",
     "accent": "#AE6C21",
     "built": "2026-11-18"
+  },
+  "dicepool": {
+    "slug": "dicepool",
+    "store_name": "DicePool ダイス確率計算",
+    "subtitle": "成功数・爆発ダイス・グリッチ",
+    "apple_id": "6795145697",
+    "accent": "#CA9026",
+    "built": "2026-11-25"
   }
 }
