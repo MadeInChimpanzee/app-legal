@@ -93,7 +93,7 @@
     "subtitle": "毎回同じ構図で撮る変化記録",
     "apple_id": "6789591055",
     "accent": "#00AFA6",
-    "built": "2026-11-13"
+    "built": "2026-11-27"
   },
   "kanji3": {
     "slug": "kanji3",
@@ -157,7 +157,7 @@
     "subtitle": "必要書類と相続放棄・登記の締切を通知",
     "apple_id": "6785236085",
     "accent": "#925010",
-    "built": "2026-11-13"
+    "built": "2026-11-27"
   },
   "tsuinnote": {
     "slug": "tsuinnote",
@@ -277,7 +277,7 @@
     "subtitle": "ぐずった時に、さわると泡や光がふわり",
     "apple_id": "6791547401",
     "accent": "#89C5EF",
-    "built": "2026-11-13"
+    "built": "2026-11-27"
   },
   "zonepro": {
     "slug": "zonepro",
@@ -293,7 +293,7 @@
     "subtitle": "シフトの残業と時給を週ごとに集計",
     "apple_id": "6795364167",
     "accent": "#008D79",
-    "built": "2026-11-13"
+    "built": "2026-11-27"
   },
   "tappydots": {
     "slug": "tappydots",
@@ -317,7 +317,7 @@
     "subtitle": "Plate dissipation & OT match",
     "apple_id": "6795169914",
     "accent": "#A47229",
-    "built": "2026-11-13"
+    "built": "2026-11-27"
   },
   "ductwheel": {
     "slug": "ductwheel",
@@ -337,11 +337,11 @@
   },
   "slopecalc": {
     "slug": "slopecalc",
-    "store_name": "SlopeCalc: Grade & Ramp",
-    "subtitle": "Drainage, ADA & pitch",
+    "store_name": "SlopeCalc - 勾配計算・スロープ",
+    "subtitle": "％・角度・1/12を換算、排水勾配も",
     "apple_id": "6794645706",
     "accent": "#2B8658",
-    "built": "2026-10-11"
+    "built": "2026-11-27"
   },
   "wiregauge": {
     "slug": "wiregauge",
@@ -373,7 +373,7 @@
     "subtitle": "被写界深度・回折限界・深度合成",
     "apple_id": "6795010983",
     "accent": "#09858F",
-    "built": "2026-11-18"
+    "built": "2026-11-27"
   },
   "holdly": {
     "slug": "holdly",
@@ -381,7 +381,7 @@
     "subtitle": "ウォールシットも 自動で+5秒ずつ",
     "apple_id": "6789790139",
     "accent": "#FB4B07",
-    "built": "2026-11-13"
+    "built": "2026-11-27"
   },
   "archerygold": {
     "slug": "gold",
@@ -397,7 +397,7 @@
     "subtitle": "エアライフル・エアピストルの練習記録",
     "apple_id": "6794514978",
     "accent": "#D99448",
-    "built": "2026-11-13"
+    "built": "2026-11-27"
   },
   "diceodds": {
     "slug": "diceodds",
@@ -421,7 +421,7 @@
     "subtitle": "K係数と展開全長を即計算・mm/inch対応",
     "apple_id": "6794622503",
     "accent": "#D5680A",
-    "built": "2026-10-11"
+    "built": "2026-11-27"
   },
   "peakflowlog": {
     "slug": "peakflowlog",
